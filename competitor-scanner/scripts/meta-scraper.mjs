@@ -1,11 +1,10 @@
 /**
  * meta-scraper.mjs
  * Pulls competitor ads from Meta Ad Library API.
- * Uses APP_ID|APP_SECRET as access token — no OAuth, no expiry.
+ * Uses a long-lived user access token (60-day, refresh manually).
  *
  * Env vars required:
- *   META_APP_ID
- *   META_APP_SECRET
+ *   META_ACCESS_TOKEN  — long-lived user token with ads_read permission
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
@@ -15,15 +14,12 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = join(__dirname, '../data/ads.json');
 
-const APP_ID     = process.env.META_APP_ID;
-const APP_SECRET = process.env.META_APP_SECRET;
+const ACCESS_TOKEN = process.env.META_ACCESS_TOKEN;
 
-if (!APP_ID || !APP_SECRET) {
-  console.error('❌  META_APP_ID and META_APP_SECRET must be set');
+if (!ACCESS_TOKEN) {
+  console.error('❌  META_ACCESS_TOKEN must be set');
   process.exit(1);
 }
-
-const ACCESS_TOKEN = `${APP_ID}|${APP_SECRET}`;
 const API_VERSION  = 'v21.0';
 const BASE_URL     = `https://graph.facebook.com/${API_VERSION}/ads_archive`;
 

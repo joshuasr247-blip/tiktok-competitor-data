@@ -31,8 +31,7 @@ jobs:
       - name: Run Meta Ad Library scraper
         working-directory: competitor-scanner
         env:
-          META_APP_ID:     ${{ secrets.META_APP_ID }}
-          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
         run: node scripts/meta-scraper.mjs
 
       - name: Commit updated ads.json
