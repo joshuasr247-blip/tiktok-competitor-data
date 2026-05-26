@@ -85,7 +85,7 @@ const FIELDS = [
 async function fetchAdsForQuery(searchTerm) {
   const params = new URLSearchParams({
     search_terms:          searchTerm,
-    ad_reached_countries:  "['US']",
+    ad_reached_countries:  '["US"]',
     ad_type:               'ALL',
     fields:                FIELDS,
     limit:                 '100',
