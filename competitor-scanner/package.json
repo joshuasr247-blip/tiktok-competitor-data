@@ -1,13 +1,10 @@
 {
   "name": "competitor-scanner",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Daily TikTok Creative Center scraper — writes to data/ads.json",
+  "description": "Daily Meta Ad Library scraper — writes to data/ads.json",
   "scripts": {
-    "export-cookies": "node scripts/export-cookies.mjs",
-    "scrape": "node scripts/tiktok-scraper.mjs"
+    "scrape": "node scripts/meta-scraper.mjs"
   },
-  "dependencies": {
-    "playwright": "^1.44.0"
-  }
+  "dependencies": {}
 }

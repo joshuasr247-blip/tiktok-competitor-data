@@ -1,18 +1,17 @@
-name: TikTok Competitor Scanner
+name: Meta Competitor Scanner
 
 on:
   schedule:
-    # Runs daily at 9:00 AM UTC (5 AM ET)
-    - cron: '0 9 * * *'
-  workflow_dispatch: # allow manual trigger from GitHub UI
+    - cron: '0 9 * * *'   # 9 AM UTC daily
+  workflow_dispatch:       # manual trigger from GitHub UI
 
 permissions:
-  contents: write # needed to commit ads.json back to the repo
+  contents: write
 
 jobs:
-  scrape:
+  scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
@@ -29,15 +28,12 @@ jobs:
         working-directory: competitor-scanner
         run: npm ci
 
-      - name: Install Playwright Chromium
-        working-directory: competitor-scanner
-        run: npx playwright install chromium --with-deps
-
-      - name: Run scraper
+      - name: Run Meta Ad Library scraper
         working-directory: competitor-scanner
         env:
-          TIKTOK_COOKIES: ${{ secrets.TIKTOK_COOKIES }}
-        run: node scripts/tiktok-scraper.mjs
+          META_APP_ID:     ${{ secrets.META_APP_ID }}
+          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+        run: node scripts/meta-scraper.mjs
 
       - name: Commit updated ads.json
         run: |
