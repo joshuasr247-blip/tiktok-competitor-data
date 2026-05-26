@@ -71,10 +71,12 @@ async function fetchAdsForQuery(searchTerm) {
         'Authorization': `Bearer ${APIFY_TOKEN}`,
       },
       body: JSON.stringify({
-        searchTerms: [searchTerm],
-        country: 'US',
-        adType: 'ALL',
-        maxResults: 50,
+        startUrls: [
+          {
+            url: `https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=${encodeURIComponent(searchTerm)}&search_type=keyword_unordered`,
+          },
+        ],
+        maxItems: 50,
       }),
     }
   );
