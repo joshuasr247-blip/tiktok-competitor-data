@@ -22,7 +22,7 @@ if (!APIFY_TOKEN) {
 }
 
 // Actor: https://apify.com/apify/facebook-ads-library-scraper
-const ACTOR_ID = 'apify~facebook-ads-library-scraper';
+const ACTOR_ID = 'apify~facebook-ads-scraper';
 
 // ── Hook classifier ────────────────────────────────────────────────────────
 
