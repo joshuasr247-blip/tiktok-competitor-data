@@ -1,10 +1,10 @@
 /**
  * meta-scraper.mjs
- * Pulls competitor ads from Meta Ad Library API.
- * Uses a long-lived user access token (60-day, refresh manually).
+ * Pulls competitor ads from Meta Ad Library via Apify actor.
+ * No Meta account or identity verification needed.
  *
  * Env vars required:
- *   META_ACCESS_TOKEN  — long-lived user token with ads_read permission
+ *   APIFY_API_TOKEN  — from apify.com → Settings → Integrations
  */
 
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
@@ -14,14 +14,15 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = join(__dirname, '../data/ads.json');
 
-const ACCESS_TOKEN = process.env.META_ACCESS_TOKEN;
+const APIFY_TOKEN = process.env.APIFY_API_TOKEN;
 
-if (!ACCESS_TOKEN) {
-  console.error('❌  META_ACCESS_TOKEN must be set');
+if (!APIFY_TOKEN) {
+  console.error('❌  APIFY_API_TOKEN must be set');
   process.exit(1);
 }
-const API_VERSION  = 'v21.0';
-const BASE_URL     = `https://graph.facebook.com/${API_VERSION}/ads_archive`;
+
+// Actor: https://apify.com/apify/facebook-ads-library-scraper
+const ACTOR_ID = 'apify~facebook-ads-library-scraper';
 
 // ── Hook classifier ────────────────────────────────────────────────────────
 
@@ -40,7 +41,6 @@ function classifyHook(text = '') {
 }
 
 // ── Search queries ─────────────────────────────────────────────────────────
-// These target ragebait / pain-point / demo UGC ad patterns
 
 const SEARCH_QUERIES = [
   'stop wasting',
@@ -50,98 +50,121 @@ const SEARCH_QUERIES = [
   'let me show you',
   'this changed everything',
   'why I switched',
-  'I tried every',
   'honest review',
   'watch this before',
   'the real reason',
-  'most people don\'t know',
+  "most people don't know",
 ];
 
-// Fields we want back from the API
-const FIELDS = [
-  'id',
-  'ad_creation_time',
-  'ad_creative_bodies',
-  'ad_creative_link_titles',
-  'ad_creative_link_descriptions',
-  'ad_delivery_start_time',
-  'ad_delivery_stop_time',
-  'ad_snapshot_url',
-  'impressions',
-  'spend',
-  'page_name',
-  'page_id',
-  'publisher_platforms',
-  'languages',
-  'estimated_audience_size',
-].join(',');
-
-// ── API fetch ──────────────────────────────────────────────────────────────
+// ── Apify actor call ───────────────────────────────────────────────────────
 
 async function fetchAdsForQuery(searchTerm) {
-  const params = new URLSearchParams({
-    search_terms:          searchTerm,
-    ad_reached_countries:  '["US"]',
-    ad_type:               'ALL',
-    fields:                FIELDS,
-    limit:                 '100',
-    access_token:          ACCESS_TOKEN,
-  });
+  console.log(`  → "${searchTerm}" …`);
 
-  const ads  = [];
-  let url    = `${BASE_URL}?${params}`;
-  let pages  = 0;
-
-  while (url && pages < 3) {
-    const res = await fetch(url);
-    const data = await res.json();
-
-    if (data.error) {
-      console.error(`  ⚠️  GraphAPI error for "${searchTerm}": ${JSON.stringify(data.error)}`);
-      break;
+  // Start the actor run
+  const startRes = await fetch(
+    `https://api.apify.com/v2/acts/${ACTOR_ID}/runs`,
+    {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${APIFY_TOKEN}`,
+      },
+      body: JSON.stringify({
+        searchTerms: [searchTerm],
+        country: 'US',
+        adType: 'ALL',
+        maxResults: 50,
+      }),
     }
+  );
 
-    ads.push(...(data.data ?? []));
-    url = data.paging?.next ?? null;
-    pages++;
+  if (!startRes.ok) {
+    const err = await startRes.text();
+    console.log(`  ERR starting run: ${err}`);
+    return [];
   }
 
-  return ads;
+  const { data: run } = await startRes.json();
+  const runId = run.id;
+
+  // Poll until finished (max 3 min)
+  const deadline = Date.now() + 3 * 60 * 1000;
+  let status = run.status;
+
+  while (!['SUCCEEDED', 'FAILED', 'ABORTED', 'TIMED-OUT'].includes(status)) {
+    if (Date.now() > deadline) {
+      console.log(`  ⚠️  Timed out waiting for run ${runId}`);
+      return [];
+    }
+    await new Promise(r => setTimeout(r, 5000));
+    const statusRes = await fetch(
+      `https://api.apify.com/v2/actor-runs/${runId}`,
+      { headers: { 'Authorization': `Bearer ${APIFY_TOKEN}` } }
+    );
+    const { data: runData } = await statusRes.json();
+    status = runData.status;
+  }
+
+  if (status !== 'SUCCEEDED') {
+    console.log(`  ⚠️  Run ${runId} ended with status: ${status}`);
+    return [];
+  }
+
+  // Fetch dataset items
+  const itemsRes = await fetch(
+    `https://api.apify.com/v2/actor-runs/${runId}/dataset/items?format=json`,
+    { headers: { 'Authorization': `Bearer ${APIFY_TOKEN}` } }
+  );
+
+  if (!itemsRes.ok) {
+    console.log(`  ERR fetching items: ${await itemsRes.text()}`);
+    return [];
+  }
+
+  const items = await itemsRes.json();
+  console.log(`  ✓ ${items.length} ads`);
+  return items;
 }
 
-// ── Transform raw Meta ad → our schema ────────────────────────────────────
+// ── Transform Apify ad → our schema ───────────────────────────────────────
 
 function transformAd(ad) {
-  const body     = ad.ad_creative_bodies?.[0] ?? '';
-  const title    = ad.ad_creative_link_titles?.[0] ?? '';
+  // Apify's facebook-ads-library-scraper field names
+  const body  = ad.bodyText ?? ad.adCardBodyText ?? ad.ad_creative_bodies?.[0] ?? '';
+  const title = ad.title ?? ad.adCardTitle ?? ad.ad_creative_link_titles?.[0] ?? '';
   const hookText = body || title;
-  const hookLine = hookText.split(/[.!?\n]/)[0].trim().slice(0, 200);
+  const hookLine  = hookText.split(/[.!?\n]/)[0].trim().slice(0, 200);
   const hookLabel = classifyHook(hookLine);
 
-  const impMin = ad.impressions?.lower_bound;
-  const impMax = ad.impressions?.upper_bound;
-  const impressions = impMin
-    ? `${Number(impMin).toLocaleString()}–${Number(impMax).toLocaleString()}`
-    : null;
+  // Impressions / spend may come as strings or objects
+  const impRaw = ad.impressions ?? ad.impressionsBound;
+  const impressions = typeof impRaw === 'string'
+    ? impRaw
+    : (impRaw?.lower_bound
+        ? `${Number(impRaw.lower_bound).toLocaleString()}–${Number(impRaw.upper_bound ?? impRaw.lower_bound).toLocaleString()}`
+        : null);
 
-  const spendMin = ad.spend?.lower_bound;
-  const spend = spendMin ? `$${Number(spendMin).toLocaleString()}+` : null;
+  const spendRaw = ad.spend ?? ad.spendBound;
+  const spend = typeof spendRaw === 'string'
+    ? spendRaw
+    : (spendRaw?.lower_bound ? `$${Number(spendRaw.lower_bound).toLocaleString()}+` : null);
 
   return {
-    id:           ad.id,
-    first_seen:   ad.ad_delivery_start_time?.slice(0, 10) ?? ad.ad_creation_time?.slice(0, 10) ?? null,
-    last_seen:    ad.ad_delivery_stop_time?.slice(0, 10) ?? null,
-    active:       !ad.ad_delivery_stop_time,
+    id:           ad.id ?? ad.adArchiveId ?? ad.adId ?? String(Math.random()),
+    first_seen:   (ad.startDate ?? ad.adDeliveryStartTime ?? ad.ad_delivery_start_time ?? '').slice(0, 10) || null,
+    last_seen:    (ad.endDate ?? ad.adDeliveryStopTime ?? ad.ad_delivery_stop_time ?? '').slice(0, 10) || null,
+    active:       !(ad.endDate ?? ad.adDeliveryStopTime ?? ad.ad_delivery_stop_time),
     hook:         hookLine || body.slice(0, 120),
     hook_label:   hookLabel,
     body:         body.slice(0, 600),
     title:        title,
-    brand:        ad.page_name ?? '',
-    page_id:      ad.page_id ?? '',
-    platforms:    ad.publisher_platforms ?? [],
+    brand:        ad.pageName ?? ad.page_name ?? '',
+    page_id:      ad.pageId ?? ad.page_id ?? '',
+    platforms:    ad.publisherPlatforms ?? ad.publisher_platforms ?? [],
     impressions,
     spend,
-    snapshot_url: ad.ad_snapshot_url ?? '',
+    snapshot_url: ad.adSnapshotUrl ?? ad.ad_snapshot_url ?? ad.snapshotUrl ?? '',
     languages:    ad.languages ?? [],
   };
 }
@@ -161,34 +184,33 @@ function saveData(data) {
 // ── Main ───────────────────────────────────────────────────────────────────
 
 async function main() {
-  console.log('🔍  Fetching Meta Ad Library data…');
+  console.log('🔍  Fetching Meta Ad Library data via Apify…');
 
   const allRaw = [];
   for (const query of SEARCH_QUERIES) {
-    process.stdout.write(`  → "${query}" … `);
     try {
       const ads = await fetchAdsForQuery(query);
-      console.log(`${ads.length} ads`);
       allRaw.push(...ads);
     } catch (e) {
-      console.log(`ERR: ${e.message}`);
+      console.log(`  ERR: ${e.message}`);
     }
-    // Courtesy pause to stay well under rate limits
-    await new Promise(r => setTimeout(r, 600));
+    // Brief pause between runs
+    await new Promise(r => setTimeout(r, 1000));
   }
 
   // Deduplicate by id
   const seen   = new Set();
   const unique = allRaw.filter(a => {
-    if (seen.has(a.id)) return false;
-    seen.add(a.id);
+    const key = a.id ?? a.adArchiveId;
+    if (seen.has(key)) return false;
+    seen.add(key);
     return true;
   });
 
   const fresh = unique.map(transformAd);
 
-  // Merge with existing ads (keep history, update any changed records)
-  const existing   = loadData();
+  // Merge with existing (keep history, update changed records)
+  const existing    = loadData();
   const existingMap = new Map(existing.ads.map(a => [a.id, a]));
   for (const ad of fresh) existingMap.set(ad.id, ad);
 
