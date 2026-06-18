@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-17",
+  "last_run": "2026-06-18",
   "ads": [
     {
       "id": "tt_7484626454127447318",
@@ -151,7 +151,7 @@
         "techtok"
       ],
       "created_at": "2022-02-25",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7310655350519139630",
@@ -288,6 +288,29 @@
       "scraped_at": "2026-06-06"
     },
     {
+      "id": "tt_7642717389372607775",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@lindseyszn/video/7642717389372607775",
+      "caption": "This 1 app changed my daily routine! #ApplePartner\n@App Store #Lindseyszn #Appstore ",
+      "hook": "This 1 app changed my daily routine",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "lindseyszn",
+      "views": 2300000,
+      "likes": 2459,
+      "comments": 15,
+      "shares": 25,
+      "thumbnail": "",
+      "hashtags": [
+        "applepartner",
+        "lindseyszn",
+        "appstore",
+        "appoftheday"
+      ],
+      "created_at": "2026-05-22",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7643961478080367894",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@xchloehh/video/7643961478080367894",
@@ -311,29 +334,6 @@
       ],
       "created_at": "2026-05-25",
       "scraped_at": "2026-05-28"
-    },
-    {
-      "id": "tt_7642717389372607775",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@lindseyszn/video/7642717389372607775",
-      "caption": "This 1 app changed my daily routine! #ApplePartner\n@App Store #Lindseyszn #Appstore ",
-      "hook": "This 1 app changed my daily routine",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "lindseyszn",
-      "views": 2000000,
-      "likes": 2355,
-      "comments": 12,
-      "shares": 25,
-      "thumbnail": "",
-      "hashtags": [
-        "applepartner",
-        "lindseyszn",
-        "appstore",
-        "appoftheday"
-      ],
-      "created_at": "2026-05-22",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7271252412856290561",
@@ -746,9 +746,9 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "thehidden_lore",
-      "views": 801100,
-      "likes": 24500,
-      "comments": 949,
+      "views": 802100,
+      "likes": 24600,
+      "comments": 948,
       "shares": 45900,
       "thumbnail": "",
       "hashtags": [
@@ -759,7 +759,7 @@
         "appoftheday"
       ],
       "created_at": "2026-05-23",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7625106403983641887",
@@ -770,7 +770,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "omarontape",
-      "views": 784200,
+      "views": 784400,
       "likes": 112500,
       "comments": 967,
       "shares": 29000,
@@ -784,7 +784,7 @@
         "appoftheday"
       ],
       "created_at": "2026-04-05",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7571910510896073997",
@@ -1154,6 +1154,30 @@
       "scraped_at": "2026-05-29"
     },
     {
+      "id": "tt_7632355348694797598",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@jakeheyen/video/7632355348694797598",
+      "caption": "The best new product drops in health & fitness this week 👇\n\n- Climatic launched the world’s first breathable lung health device.\n\n- KIPRUN launched a smart running shoe that measures sole wear and tear.\n\n- Polar Monkeys launched a dual-orientation contrast therapy system.\n\n- Resit launched a smart chair posture tracking system.\n\n📩 Subscribe to Wellworthy for the latest product drops in health & fitness delivered every Thursday → Link in bio.\n\n#health #wellness #fitness #newproducts",
+      "hook": "The best new product drops in health & fitness this week 👇",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "jakeheyen",
+      "views": 627100,
+      "likes": 43200,
+      "comments": 167,
+      "shares": 7347,
+      "thumbnail": "",
+      "hashtags": [
+        "health",
+        "wellness",
+        "fitness",
+        "newproducts",
+        "producttok"
+      ],
+      "created_at": "2026-04-24",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7613100903108726038",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@get_snitch/video/7613100903108726038",
@@ -1177,30 +1201,6 @@
       ],
       "created_at": "2026-03-03",
       "scraped_at": "2026-06-09"
-    },
-    {
-      "id": "tt_7632355348694797598",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@jakeheyen/video/7632355348694797598",
-      "caption": "The best new product drops in health & fitness this week 👇\n\n- Climatic launched the world’s first breathable lung health device.\n\n- KIPRUN launched a smart running shoe that measures sole wear and tear.\n\n- Polar Monkeys launched a dual-orientation contrast therapy system.\n\n- Resit launched a smart chair posture tracking system.\n\n📩 Subscribe to Wellworthy for the latest product drops in health & fitness delivered every Thursday → Link in bio.\n\n#health #wellness #fitness #newproducts",
-      "hook": "The best new product drops in health & fitness this week 👇",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "jakeheyen",
-      "views": 625300,
-      "likes": 43100,
-      "comments": 166,
-      "shares": 7323,
-      "thumbnail": "",
-      "hashtags": [
-        "health",
-        "wellness",
-        "fitness",
-        "newproducts",
-        "producttok"
-      ],
-      "created_at": "2026-04-24",
-      "scraped_at": "2026-06-16"
     },
     {
       "id": "tt_7231613370237979931",
@@ -1326,10 +1326,10 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "quick.cleannn",
-      "views": 603400,
-      "likes": 24500,
+      "views": 607900,
+      "likes": 24700,
       "comments": 1093,
-      "shares": 2280,
+      "shares": 2307,
       "thumbnail": "",
       "hashtags": [
         "electricscrubber",
@@ -1340,7 +1340,7 @@
         "producttok"
       ],
       "created_at": "2026-01-13",
-      "scraped_at": "2026-06-16"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7527807582732291350",
@@ -1687,7 +1687,7 @@
         "chromextension"
       ],
       "created_at": "2021-12-09",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7638378926196198687",
@@ -1826,7 +1826,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "teddy127_twitch",
-      "views": 403000,
+      "views": 404000,
       "likes": 15000,
       "comments": 104,
       "shares": 1423,
@@ -1838,7 +1838,7 @@
         "appextension"
       ],
       "created_at": "2026-01-18",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7535106025452621078",
@@ -2104,10 +2104,10 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "harleyma",
-      "views": 318400,
-      "likes": 5369,
-      "comments": 74,
-      "shares": 438,
+      "views": 333100,
+      "likes": 5578,
+      "comments": 77,
+      "shares": 455,
       "thumbnail": "",
       "hashtags": [
         "tubly",
@@ -2117,7 +2117,7 @@
         "chromextension"
       ],
       "created_at": "2025-12-08",
-      "scraped_at": "2026-06-08"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7286506945765199110",
@@ -2482,10 +2482,10 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "leon.petrou",
-      "views": 274800,
-      "likes": 9031,
-      "comments": 894,
-      "shares": 1871,
+      "views": 275700,
+      "likes": 9070,
+      "comments": 897,
+      "shares": 1877,
       "thumbnail": "",
       "hashtags": [
         "claude",
@@ -2498,10 +2498,10 @@
         "worksmarter",
         "aitools",
         "chromeextension",
-        "appextension"
+        "chromextension"
       ],
       "created_at": "2026-05-01",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7613953584090057997",
@@ -2880,6 +2880,29 @@
       "scraped_at": "2026-06-03"
     },
     {
+      "id": "tt_7335967903310810399",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@drtylertarver/video/7335967903310810399",
+      "caption": "this chrome extension will save you HOURS!! #teachers #chatgpt #briskextension ",
+      "hook": "this chrome extension will save you HOURS",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "drtylertarver",
+      "views": 213300,
+      "likes": 14900,
+      "comments": 148,
+      "shares": 5394,
+      "thumbnail": "",
+      "hashtags": [
+        "teachers",
+        "chatgpt",
+        "briskextension",
+        "chromextension"
+      ],
+      "created_at": "2024-02-15",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7631375980057103637",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@llm.dailyy/video/7631375980057103637",
@@ -3010,6 +3033,26 @@
       "scraped_at": "2026-05-27"
     },
     {
+      "id": "tt_7630208314428673311",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@theejohnnychang/video/7630208314428673311",
+      "caption": "I’ve been building this for a year, and it’s finally OUT NOW! \n\nThe goal of this app is to help make God a habit in your life. \n\nIts completely free - Core of the Heart Daily - download it now on the App Store\n\nOr click the L1NK 1N B10\n\nThere’s a daily devotional on there every single morning, written by me, a daily streak tracker to track your progress, a full Bible with highlighting and notes, plus Gospel Bot, trained on all of my teachings to answer your questions 24/7, and hundreds of hours of past content.\n\nAnd if you wanna go deeper, I host a Bible Class + Group Mentorship every single S",
+      "hook": "I’ve been building this for a year, and it’s finally OUT NOW",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "theejohnnychang",
+      "views": 201500,
+      "likes": 24800,
+      "comments": 349,
+      "shares": 1498,
+      "thumbnail": "",
+      "hashtags": [
+        "appoftheday"
+      ],
+      "created_at": "2026-04-18",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7649165369956977942",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@thom.code/video/7649165369956977942",
@@ -3035,6 +3078,31 @@
       "scraped_at": "2026-06-15"
     },
     {
+      "id": "tt_7645671272407403806",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@shopfrostflow_/video/7645671272407403806",
+      "caption": "This cooler fan is needed for this summer heat! Get this now! Link in bio! 🔗🥂 #summer #summervibes☀️ #gadget #tiktokmademebuyit #aircooler ",
+      "hook": "This cooler fan is needed for this summer heat",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "shopfrostflow_",
+      "views": 196500,
+      "likes": 7345,
+      "comments": 205,
+      "shares": 991,
+      "thumbnail": "",
+      "hashtags": [
+        "summer",
+        "summervibes☀️",
+        "gadget",
+        "tiktokmademebuyit",
+        "aircooler",
+        "producttok"
+      ],
+      "created_at": "2026-05-30",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7516885295976156439",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@isiomavlogs/video/7516885295976156439",
@@ -3058,7 +3126,7 @@
         "appextension"
       ],
       "created_at": "2025-06-17",
-      "scraped_at": "2026-06-12"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7156697701281828098",
@@ -3246,20 +3314,20 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "kam.ai",
-      "views": 173400,
-      "likes": 14100,
-      "comments": 80,
-      "shares": 3275,
+      "views": 174400,
+      "likes": 14200,
+      "comments": 81,
+      "shares": 3283,
       "thumbnail": "",
       "hashtags": [
         "claude",
         "aitools",
         "google",
         "productivity",
-        "chromextension"
+        "appextension"
       ],
       "created_at": "2026-03-24",
-      "scraped_at": "2026-06-11"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7628659141417913630",
@@ -3339,6 +3407,32 @@
       ],
       "created_at": "2025-03-04",
       "scraped_at": "2026-06-17"
+    },
+    {
+      "id": "tt_7368267638734130438",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@ugtech2/video/7368267638734130438",
+      "caption": "Replying to @Abraham Irizarry836 what is an APK file? Android application package is an install file for android based devices. apk is the extension of these files. This is what all android based apps carry #ugt #android #apk #app #firestick #androidtv ",
+      "hook": "Replying to @Abraham Irizarry836 what is an APK file",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "ugtech2",
+      "views": 167600,
+      "likes": 1096,
+      "comments": 41,
+      "shares": 77,
+      "thumbnail": "",
+      "hashtags": [
+        "ugt",
+        "android",
+        "apk",
+        "app",
+        "firestick",
+        "androidtv",
+        "appextension"
+      ],
+      "created_at": "2024-05-13",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7618180186550390034",
@@ -3740,9 +3834,9 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "herr_programmierer",
-      "views": 145300,
+      "views": 145400,
       "likes": 7627,
-      "comments": 87,
+      "comments": 82,
       "shares": 1370,
       "thumbnail": "",
       "hashtags": [
@@ -3752,7 +3846,32 @@
         "appextension"
       ],
       "created_at": "2023-02-20",
-      "scraped_at": "2026-06-12"
+      "scraped_at": "2026-06-18"
+    },
+    {
+      "id": "tt_7624404247345515806",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@jennscale/video/7624404247345515806",
+      "caption": "whimsical website to track ur friendship health 🌷 flower-buds.vercel.app\n-\n#code #tech #website #creativecoding #flower",
+      "hook": "whimsical website to track ur friendship health 🌷 flower-buds",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "jennscale",
+      "views": 145100,
+      "likes": 25500,
+      "comments": 524,
+      "shares": 5019,
+      "thumbnail": "",
+      "hashtags": [
+        "code",
+        "tech",
+        "website",
+        "creativecoding",
+        "flower",
+        "appoftheday"
+      ],
+      "created_at": "2026-04-03",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7217885118990535941",
@@ -3956,6 +4075,55 @@
       "scraped_at": "2026-05-29"
     },
     {
+      "id": "tt_7331462142031351046",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@duncanzz/video/7331462142031351046",
+      "caption": "This chrome extension allows you to increase the volume limit from 100% to 600% #chromeextensions #volumemaster #techtips #techtok #duncanzz #pctips",
+      "hook": "This chrome extension allows you to increase the volume limit from 100% to 600% #chromeextensions #volumemaster #techtips #techtok #duncanzz #pctips",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "duncanzz",
+      "views": 129100,
+      "likes": 6931,
+      "comments": 89,
+      "shares": 186,
+      "thumbnail": "",
+      "hashtags": [
+        "chromeextensions",
+        "volumemaster",
+        "techtips",
+        "techtok",
+        "duncanzz",
+        "pctips",
+        "chromextension"
+      ],
+      "created_at": "2024-02-03",
+      "scraped_at": "2026-06-18"
+    },
+    {
+      "id": "tt_7470187390703881494",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@joinlikely/video/7470187390703881494",
+      "caption": "save favorites and create wishlists from any shopping site with our app and browser extension. link in bio! #wishlist #chimi #oakley ",
+      "hook": "save favorites and create wishlists from any shopping site with our app and browser extension",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "joinlikely",
+      "views": 128600,
+      "likes": 865,
+      "comments": 44,
+      "shares": 23,
+      "thumbnail": "",
+      "hashtags": [
+        "wishlist",
+        "chimi",
+        "oakley",
+        "appextension"
+      ],
+      "created_at": "2025-02-11",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7568458176270732565",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@caleb.fit/video/7568458176270732565",
@@ -4128,6 +4296,31 @@
       "scraped_at": "2026-06-13"
     },
     {
+      "id": "tt_7627461816913808662",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@nicksadler.io/video/7627461816913808662",
+      "caption": "Claude code automated my bookkeeping and now reconciles daily instead of monthly, giving me real-time visibility into my business finances.\n#claudecode #aiautomation #bookkeeping #automation #smallbusiness\nKeywords: Claude code, AI bookkeeping, automated reconciliation, QuickBooks automation, business automation, financial tracking, real-time finance, small business tools, AI for business, bookkeeper automation, Chrome extension, business finances",
+      "hook": "Claude code automated my bookkeeping and now reconciles daily instead of monthly, giving me real-time visibility into my business finances",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "nicksadler.io",
+      "views": 121000,
+      "likes": 3544,
+      "comments": 1900,
+      "shares": 1376,
+      "thumbnail": "",
+      "hashtags": [
+        "claudecode",
+        "aiautomation",
+        "bookkeeping",
+        "automation",
+        "smallbusiness",
+        "chromextension"
+      ],
+      "created_at": "2026-04-11",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7598656628191235342",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@unblockedandaligned/video/7598656628191235342",
@@ -4150,31 +4343,6 @@
       ],
       "created_at": "2026-01-23",
       "scraped_at": "2026-05-27"
-    },
-    {
-      "id": "tt_7627461816913808662",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@nicksadler.io/video/7627461816913808662",
-      "caption": "Claude code automated my bookkeeping and now reconciles daily instead of monthly, giving me real-time visibility into my business finances.\n#claudecode #aiautomation #bookkeeping #automation #smallbusiness\nKeywords: Claude code, AI bookkeeping, automated reconciliation, QuickBooks automation, business automation, financial tracking, real-time finance, small business tools, AI for business, bookkeeper automation, Chrome extension, business finances",
-      "hook": "Claude code automated my bookkeeping and now reconciles daily instead of monthly, giving me real-time visibility into my business finances",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "nicksadler.io",
-      "views": 120400,
-      "likes": 3523,
-      "comments": 1894,
-      "shares": 1371,
-      "thumbnail": "",
-      "hashtags": [
-        "claudecode",
-        "aiautomation",
-        "bookkeeping",
-        "automation",
-        "smallbusiness",
-        "chromextension"
-      ],
-      "created_at": "2026-04-11",
-      "scraped_at": "2026-06-15"
     },
     {
       "id": "tt_7595909786844024086",
@@ -4230,7 +4398,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "isabellafaryn",
-      "views": 116700,
+      "views": 116800,
       "likes": 16500,
       "comments": 13,
       "shares": 62,
@@ -4242,7 +4410,7 @@
         "appextension"
       ],
       "created_at": "2026-01-07",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7285786013694201131",
@@ -4559,6 +4727,31 @@
       "scraped_at": "2026-06-02"
     },
     {
+      "id": "tt_7609008163257421078",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@ardailyinfouk/video/7609008163257421078",
+      "caption": "Urban VPN Google Chrome Extension – How to Install & Use Free VPN (Step-by-Step Guide) ##UrbanVPN #ChromeExtension #FreeVPN #VPNforChrome #GoogleChromeVPN ",
+      "hook": "Urban VPN Google Chrome Extension – How to Install & Use Free VPN (Step-by-Step Guide) ##UrbanVPN #ChromeExtension #FreeVPN #VPNforChrome #GoogleChromeVPN",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "ardailyinfouk",
+      "views": 97600,
+      "likes": 781,
+      "comments": 10,
+      "shares": 230,
+      "thumbnail": "",
+      "hashtags": [
+        "urbanvpn",
+        "chromeextension",
+        "freevpn",
+        "vpnforchrome",
+        "googlechromevpn",
+        "appextension"
+      ],
+      "created_at": "2026-02-20",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7471269476063874326",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@nategold.ai/video/7471269476063874326",
@@ -4583,10 +4776,10 @@
         "microsaas",
         "aiagent",
         "chromeextensions",
-        "appextension"
+        "chromextension"
       ],
       "created_at": "2025-02-14",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7488681328800533782",
@@ -4723,6 +4916,31 @@
       "scraped_at": "2026-06-10"
     },
     {
+      "id": "tt_7646438971655867656",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@larpu_acc/video/7646438971655867656",
+      "caption": "Codex is an AI coding and task automation agent created by  OpenAI. Originally, “Codex” referred to OpenAI’s older code-generation models that powered early versions of GitHub Copilot. But now Codex is a much broader product: an autonomous AI workspace that can write code, debug projects, edit files, run workflows, interact with tools, and automate multi-step tasks.  \n\nThe main difference between regular ChatGPT and Codex is the operating model. ChatGPT is mostly conversational: you ask questions, brainstorm ideas, or generate text. Codex is designed to actually execute work. It can interact w",
+      "hook": "Codex is an AI coding and task automation agent created by  OpenAI",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "larpu_acc",
+      "views": 92400,
+      "likes": 5598,
+      "comments": 356,
+      "shares": 220,
+      "thumbnail": "",
+      "hashtags": [
+        "codex",
+        "openai",
+        "devmemes",
+        "vibecode",
+        "vibecoding",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-01",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7536450785639451909",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@m.zamur/video/7536450785639451909",
@@ -4758,54 +4976,32 @@
       "scraped_at": "2026-06-11"
     },
     {
-      "id": "tt_7646438971655867656",
+      "id": "tt_7463055365350100229",
       "platform": "tiktok",
-      "url": "https://www.tiktok.com/@larpu_acc/video/7646438971655867656",
-      "caption": "Codex is an AI coding and task automation agent created by  OpenAI. Originally, “Codex” referred to OpenAI’s older code-generation models that powered early versions of GitHub Copilot. But now Codex is a much broader product: an autonomous AI workspace that can write code, debug projects, edit files, run workflows, interact with tools, and automate multi-step tasks.  \n\nThe main difference between regular ChatGPT and Codex is the operating model. ChatGPT is mostly conversational: you ask questions, brainstorm ideas, or generate text. Codex is designed to actually execute work. It can interact w",
-      "hook": "Codex is an AI coding and task automation agent created by  OpenAI",
+      "url": "https://www.tiktok.com/@level_us_oficial/video/7463055365350100229",
+      "caption": "Top 3 extensões do vscode part2\n#vsco #developer #programador #programacao #software #desenvolvedor #dicadeprogramacao #extensoes ",
+      "hook": "Top 3 extensões do vscode part2",
       "hook_label": "OTHER",
       "has_product": true,
-      "author": "larpu_acc",
-      "views": 91700,
-      "likes": 5560,
-      "comments": 356,
-      "shares": 215,
+      "author": "level_us_oficial",
+      "views": 90800,
+      "likes": 8619,
+      "comments": 33,
+      "shares": 457,
       "thumbnail": "",
       "hashtags": [
-        "codex",
-        "openai",
-        "devmemes",
-        "vibecode",
-        "vibecoding",
-        "softwarereview"
-      ],
-      "created_at": "2026-06-01",
-      "scraped_at": "2026-06-17"
-    },
-    {
-      "id": "tt_7609008163257421078",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@ardailyinfouk/video/7609008163257421078",
-      "caption": "Urban VPN Google Chrome Extension – How to Install & Use Free VPN (Step-by-Step Guide) ##UrbanVPN #ChromeExtension #FreeVPN #VPNforChrome #GoogleChromeVPN ",
-      "hook": "Urban VPN Google Chrome Extension – How to Install & Use Free VPN (Step-by-Step Guide) ##UrbanVPN #ChromeExtension #FreeVPN #VPNforChrome #GoogleChromeVPN",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "ardailyinfouk",
-      "views": 88800,
-      "likes": 700,
-      "comments": 9,
-      "shares": 198,
-      "thumbnail": "",
-      "hashtags": [
-        "urbanvpn",
-        "chromeextension",
-        "freevpn",
-        "vpnforchrome",
-        "googlechromevpn",
+        "vsco",
+        "developer",
+        "programador",
+        "programacao",
+        "software",
+        "desenvolvedor",
+        "dicadeprogramacao",
+        "extensoes",
         "appextension"
       ],
-      "created_at": "2026-02-20",
-      "scraped_at": "2026-06-12"
+      "created_at": "2025-01-23",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7208195151078935813",
@@ -5329,6 +5525,31 @@
       "scraped_at": "2026-06-03"
     },
     {
+      "id": "tt_7313500845138611461",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@bighabesha/video/7313500845138611461",
+      "caption": "phone browser extension #bighabesha #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 #tips #big_habesha #android ",
+      "hook": "phone browser extension #bighabesha #ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹 #tips #big_habesha #android",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "bighabesha",
+      "views": 71900,
+      "likes": 4279,
+      "comments": 48,
+      "shares": 277,
+      "thumbnail": "",
+      "hashtags": [
+        "bighabesha",
+        "ethiopian_tik_tok🇪🇹🇪🇹🇪🇹🇪🇹",
+        "tips",
+        "big_habesha",
+        "android",
+        "appextension"
+      ],
+      "created_at": "2023-12-17",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7646848522612002062",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@alexeztechtips/video/7646848522612002062",
@@ -5602,8 +5823,8 @@
       "has_product": true,
       "author": "kayjayohpcs",
       "views": 63700,
-      "likes": 8484,
-      "comments": 116,
+      "likes": 8486,
+      "comments": 117,
       "shares": 109,
       "thumbnail": "",
       "hashtags": [
@@ -5614,7 +5835,32 @@
         "softwarereview"
       ],
       "created_at": "2026-03-13",
-      "scraped_at": "2026-06-16"
+      "scraped_at": "2026-06-18"
+    },
+    {
+      "id": "tt_7636461576236649741",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@cap_labs/video/7636461576236649741",
+      "caption": "Not wearing protection....while browsing can have some disastrous results on your PC. Heres 3 chrome extensions that you should use to browse the web safely.\n\n#chrome #browser #pc #pctips #techtips ",
+      "hook": "Not wearing protection",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "cap_labs",
+      "views": 62700,
+      "likes": 3139,
+      "comments": 100,
+      "shares": 266,
+      "thumbnail": "",
+      "hashtags": [
+        "chrome",
+        "browser",
+        "pc",
+        "pctips",
+        "techtips",
+        "chromextension"
+      ],
+      "created_at": "2026-05-05",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7351767735484845344",
@@ -5647,31 +5893,6 @@
       ],
       "created_at": "2024-03-29",
       "scraped_at": "2026-05-29"
-    },
-    {
-      "id": "tt_7636461576236649741",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@cap_labs/video/7636461576236649741",
-      "caption": "Not wearing protection....while browsing can have some disastrous results on your PC. Heres 3 chrome extensions that you should use to browse the web safely.\n\n#chrome #browser #pc #pctips #techtips ",
-      "hook": "Not wearing protection",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "cap_labs",
-      "views": 62300,
-      "likes": 3128,
-      "comments": 99,
-      "shares": 266,
-      "thumbnail": "",
-      "hashtags": [
-        "chrome",
-        "browser",
-        "pc",
-        "pctips",
-        "techtips",
-        "chromextension"
-      ],
-      "created_at": "2026-05-05",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7150631620645588230",
@@ -5765,6 +5986,31 @@
       ],
       "created_at": "2024-04-06",
       "scraped_at": "2026-06-12"
+    },
+    {
+      "id": "tt_7623457962161343775",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@mycozymeli/video/7623457962161343775",
+      "caption": "5 free apps that I use to keep my life together! 🌟\nI’m lowkey a type b person but when if comes to work - we on top of things 💅\n\nHave you used any of these apps? Which app is your fav?\n\n#cozymotivation #freeapps #organizationapps #organizeyourlife #selfawaregirlies ",
+      "hook": "5 free apps that I use to keep my life together",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "mycozymeli",
+      "views": 58900,
+      "likes": 3877,
+      "comments": 54,
+      "shares": 137,
+      "thumbnail": "",
+      "hashtags": [
+        "cozymotivation",
+        "freeapps",
+        "organizationapps",
+        "organizeyourlife",
+        "selfawaregirlies",
+        "appoftheday"
+      ],
+      "created_at": "2026-03-31",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7603143264480349454",
@@ -6068,31 +6314,6 @@
       "scraped_at": "2026-06-17"
     },
     {
-      "id": "tt_7623457962161343775",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@mycozymeli/video/7623457962161343775",
-      "caption": "5 free apps that I use to keep my life together! 🌟\nI’m lowkey a type b person but when if comes to work - we on top of things 💅\n\nHave you used any of these apps? Which app is your fav?\n\n#cozymotivation #freeapps #organizationapps #organizeyourlife #selfawaregirlies ",
-      "hook": "5 free apps that I use to keep my life together",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "mycozymeli",
-      "views": 52800,
-      "likes": 3569,
-      "comments": 54,
-      "shares": 127,
-      "thumbnail": "",
-      "hashtags": [
-        "cozymotivation",
-        "freeapps",
-        "organizationapps",
-        "organizeyourlife",
-        "selfawaregirlies",
-        "appoftheday"
-      ],
-      "created_at": "2026-03-31",
-      "scraped_at": "2026-06-07"
-    },
-    {
       "id": "tt_7638223459570453792",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@arthurbfrd/video/7638223459570453792",
@@ -6164,6 +6385,35 @@
       ],
       "created_at": "2026-04-21",
       "scraped_at": "2026-05-26"
+    },
+    {
+      "id": "tt_7202775550220504366",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@jasondavisseo/video/7202775550220504366",
+      "caption": "Use SEO minion and their free chrome extension in order to check status of website, links, serp preview and more. #seocontent #seo #seooptimisation #seotools #seotips2023 #seoconsultant #seocoach #localseotips #localseoexpert ",
+      "hook": "Use SEO minion and their free chrome extension in order to check status of website, links, serp preview and more",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "jasondavisseo",
+      "views": 49000,
+      "likes": 2167,
+      "comments": 39,
+      "shares": 534,
+      "thumbnail": "",
+      "hashtags": [
+        "seocontent",
+        "seo",
+        "seooptimisation",
+        "seotools",
+        "seotips2023",
+        "seoconsultant",
+        "seocoach",
+        "localseotips",
+        "localseoexpert",
+        "chromextension"
+      ],
+      "created_at": "2023-02-22",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7616400236050648342",
@@ -6308,7 +6558,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "rossfledderjohn",
-      "views": 47500,
+      "views": 47600,
       "likes": 1695,
       "comments": 17,
       "shares": 125,
@@ -6318,7 +6568,7 @@
         "chromextension"
       ],
       "created_at": "2023-02-26",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7622019818836872461",
@@ -6371,6 +6621,28 @@
       "scraped_at": "2026-06-16"
     },
     {
+      "id": "tt_7512138388917538070",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@b.telgeuse18/video/7512138388917538070",
+      "caption": "Try them today with me 🥹💖\n•\nI just discovered these life changing (YES) extensions for vscode and I can’t wait to make my own custom app hihihi\n•\n⊹ ࣪ ˖  Save this post for later! ⊹ ࣪ ˖\n•\nId really like to see yours too, cuz I know you also like adding your personal spice to life 😎\n•\n<tags>\n[coding, programmation, computer science, informatique, student, design student, computer science student, coding project, vscode theme, vscode extensions]\n#codingtips #vscode",
+      "hook": "Try them today with me 🥹💖",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "b.telgeuse18",
+      "views": 46000,
+      "likes": 2313,
+      "comments": 15,
+      "shares": 112,
+      "thumbnail": "",
+      "hashtags": [
+        "codingtips",
+        "vscode",
+        "appextension"
+      ],
+      "created_at": "2025-06-04",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7638850442629238047",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@switchandclickofficial/video/7638850442629238047",
@@ -6393,28 +6665,6 @@
       ],
       "created_at": "2026-05-12",
       "scraped_at": "2026-06-04"
-    },
-    {
-      "id": "tt_7512138388917538070",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@b.telgeuse18/video/7512138388917538070",
-      "caption": "Try them today with me 🥹💖\n•\nI just discovered these life changing (YES) extensions for vscode and I can’t wait to make my own custom app hihihi\n•\n⊹ ࣪ ˖  Save this post for later! ⊹ ࣪ ˖\n•\nId really like to see yours too, cuz I know you also like adding your personal spice to life 😎\n•\n<tags>\n[coding, programmation, computer science, informatique, student, design student, computer science student, coding project, vscode theme, vscode extensions]\n#codingtips #vscode",
-      "hook": "Try them today with me 🥹💖",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "b.telgeuse18",
-      "views": 45700,
-      "likes": 2300,
-      "comments": 15,
-      "shares": 111,
-      "thumbnail": "",
-      "hashtags": [
-        "codingtips",
-        "vscode",
-        "appextension"
-      ],
-      "created_at": "2025-06-04",
-      "scraped_at": "2026-06-08"
     },
     {
       "id": "tt_7645438488996875527",
@@ -6804,8 +7054,8 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "techpankti",
-      "views": 36300,
-      "likes": 415,
+      "views": 36500,
+      "likes": 416,
       "comments": 7,
       "shares": 26,
       "thumbnail": "",
@@ -6816,7 +7066,7 @@
         "appextension"
       ],
       "created_at": "2023-06-15",
-      "scraped_at": "2026-05-27"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7623929150159506702",
@@ -7000,6 +7250,26 @@
       "scraped_at": "2026-06-16"
     },
     {
+      "id": "tt_7506934375645236502",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@how_to_assist/video/7506934375645236502",
+      "caption": "How to install extension in Safari on IPhone",
+      "hook": "How to install extension in Safari on IPhone",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "how_to_assist",
+      "views": 32700,
+      "likes": 139,
+      "comments": 10,
+      "shares": 9,
+      "thumbnail": "",
+      "hashtags": [
+        "appextension"
+      ],
+      "created_at": "2025-05-21",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7366018138447547690",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@mrs_ivins/video/7366018138447547690",
@@ -7077,26 +7347,6 @@
       ],
       "created_at": "2022-09-12",
       "scraped_at": "2026-06-04"
-    },
-    {
-      "id": "tt_7506934375645236502",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@how_to_assist/video/7506934375645236502",
-      "caption": "How to install extension in Safari on IPhone",
-      "hook": "How to install extension in Safari on IPhone",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "how_to_assist",
-      "views": 32000,
-      "likes": 138,
-      "comments": 10,
-      "shares": 9,
-      "thumbnail": "",
-      "hashtags": [
-        "appextension"
-      ],
-      "created_at": "2025-05-21",
-      "scraped_at": "2026-06-14"
     },
     {
       "id": "tt_7649360722777951510",
@@ -7339,7 +7589,7 @@
         "appextension"
       ],
       "created_at": "2025-09-01",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_6951726973781642498",
@@ -7410,6 +7660,31 @@
       "scraped_at": "2026-06-03"
     },
     {
+      "id": "tt_7186707701408206085",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@yahna_extensions/video/7186707701408206085",
+      "caption": "Mes app fav ! #extensionsdecils #lashextensions #techniciennecils #techniciennecils #lashtech ",
+      "hook": "Mes app fav",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "yahna_extensions",
+      "views": 26600,
+      "likes": 1366,
+      "comments": 13,
+      "shares": 100,
+      "thumbnail": "",
+      "hashtags": [
+        "extensionsdecils",
+        "lashextensions",
+        "techniciennecils",
+        "techniciennecils",
+        "lashtech",
+        "appextension"
+      ],
+      "created_at": "2023-01-09",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7648663577561238801",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@dzaot/video/7648663577561238801",
@@ -7458,6 +7733,31 @@
       "scraped_at": "2026-06-02"
     },
     {
+      "id": "tt_7646141066197880094",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@cloudzsetup/video/7646141066197880094",
+      "caption": "holy tuff #techtok #whitesetup #compsetup #desksetup #pcgaming \n\ngaming clips 2025, rate my setup, best budget gaming PC 2025, best mini PC for gaming, cheapest gaming setup, affordable gaming setup 2025, zero build fortnite, vertical monitor setup, ps5 gaming setups, playstation collection, xooxclips, controller cam, ultimate gaming setup, budget gaming desk setup, RGB gaming setup, PC building 2025, PC parts haul, techtok gaming setup, RGB on a budget Fifine mic review, best mics for TikTok, best budget mic 2025, Fifine K688, Fifine AmpliGame, best mics for streaming, mic test comparison, Ti",
+      "hook": "holy tuff #techtok #whitesetup #compsetup #desksetup #pcgaming",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "cloudzsetup",
+      "views": 25300,
+      "likes": 1426,
+      "comments": 93,
+      "shares": 121,
+      "thumbnail": "",
+      "hashtags": [
+        "techtok",
+        "whitesetup",
+        "compsetup",
+        "desksetup",
+        "pcgaming",
+        "techtok"
+      ],
+      "created_at": "2026-05-31",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7651828146165124383",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@andsalsares/video/7651828146165124383",
@@ -7500,31 +7800,6 @@
       ],
       "created_at": "2024-12-17",
       "scraped_at": "2026-06-11"
-    },
-    {
-      "id": "tt_7646141066197880094",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@cloudzsetup/video/7646141066197880094",
-      "caption": "holy tuff #techtok #whitesetup #compsetup #desksetup #pcgaming \n\ngaming clips 2025, rate my setup, best budget gaming PC 2025, best mini PC for gaming, cheapest gaming setup, affordable gaming setup 2025, zero build fortnite, vertical monitor setup, ps5 gaming setups, playstation collection, xooxclips, controller cam, ultimate gaming setup, budget gaming desk setup, RGB gaming setup, PC building 2025, PC parts haul, techtok gaming setup, RGB on a budget Fifine mic review, best mics for TikTok, best budget mic 2025, Fifine K688, Fifine AmpliGame, best mics for streaming, mic test comparison, Ti",
-      "hook": "holy tuff #techtok #whitesetup #compsetup #desksetup #pcgaming",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "cloudzsetup",
-      "views": 24100,
-      "likes": 1375,
-      "comments": 92,
-      "shares": 120,
-      "thumbnail": "",
-      "hashtags": [
-        "techtok",
-        "whitesetup",
-        "compsetup",
-        "desksetup",
-        "pcgaming",
-        "techtok"
-      ],
-      "created_at": "2026-05-31",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_6953632009709227269",
@@ -7754,6 +8029,33 @@
       "scraped_at": "2026-06-04"
     },
     {
+      "id": "tt_7425635039985012001",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@marcusaureliusdigital/video/7425635039985012001",
+      "caption": "7 Google Chrome extensions you need for web desing and SEO 🚀\n\nHere are essential Google Chrome extensions to help with your web design and SEO efforts. \n\n1. Simple Coloe Picker by Marcus-Aurelius\n\n2. WhatFont by Chengyinliu\n\n3. Keywords Everywhere\n\n4. Grammarly\n\n5. GoFullPage\n\n6. BuiltWith\n\n7. Ahrefs chrom extension\n\n#chromeextensions #webdesign #seo #searchengineoptimization #designtools #seotools #websitehacks ",
+      "hook": "7 Google Chrome extensions you need for web desing and SEO 🚀",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "marcusaureliusdigital",
+      "views": 21500,
+      "likes": 550,
+      "comments": 14,
+      "shares": 126,
+      "thumbnail": "",
+      "hashtags": [
+        "chromeextensions",
+        "webdesign",
+        "seo",
+        "searchengineoptimization",
+        "designtools",
+        "seotools",
+        "websitehacks",
+        "chromextension"
+      ],
+      "created_at": "2024-10-14",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7642426930704157984",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@fthrclips/video/7642426930704157984",
@@ -7864,7 +8166,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "emmyxtech",
-      "views": 20200,
+      "views": 20300,
       "likes": 1372,
       "comments": 71,
       "shares": 36,
@@ -7876,7 +8178,7 @@
         "softwarereview"
       ],
       "created_at": "2026-03-31",
-      "scraped_at": "2026-06-16"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7604278120748764429",
@@ -7900,6 +8202,31 @@
       ],
       "created_at": "2026-02-08",
       "scraped_at": "2026-06-15"
+    },
+    {
+      "id": "tt_7633494133545504022",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@zuzis.howbout/video/7633494133545504022",
+      "caption": "Tag a friend who needs this app asap! ✨💗\n\n#howboutapp #sharedcalendar #frendship #planning #fyp ",
+      "hook": "Tag a friend who needs this app asap",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "zuzis.howbout",
+      "views": 18800,
+      "likes": 493,
+      "comments": 26,
+      "shares": 368,
+      "thumbnail": "",
+      "hashtags": [
+        "howboutapp",
+        "sharedcalendar",
+        "frendship",
+        "planning",
+        "fyp",
+        "appoftheday"
+      ],
+      "created_at": "2026-04-27",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7603066859197336854",
@@ -7951,6 +8278,29 @@
       "scraped_at": "2026-06-13"
     },
     {
+      "id": "tt_7650961463737142550",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@iextensions/video/7650961463737142550",
+      "caption": "First she did my hair, now it’s my turn 🩶\n\nOne of the things we’re most excited about is the iExtensions app.\n\nA place where you girls can earn points, share your looks, connect with other iExtensions lovers and become part of a growing community. \n\nYou can also use the virtual try-on feature to see how different lengths and shades could look on you before making a decision.\n\nIf you’re already part of the iExtensions family, make sure you’re making the most of everything the app has to offer.\n\n#iextensions #hairextensions #hairtransformation",
+      "hook": "First she did my hair, now it’s my turn 🩶",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "iextensions",
+      "views": 17400,
+      "likes": 265,
+      "comments": 31,
+      "shares": 29,
+      "thumbnail": "",
+      "hashtags": [
+        "iextensions",
+        "hairextensions",
+        "hairtransformation",
+        "appextension"
+      ],
+      "created_at": "2026-06-13",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7644966404864675094",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@real_ne00/video/7644966404864675094",
@@ -7976,6 +8326,28 @@
       "scraped_at": "2026-05-29"
     },
     {
+      "id": "tt_7651405354303114518",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@tastina.com/video/7651405354303114518",
+      "caption": "Brand new app. Like and follow to support the journey. #fyp #viral  ",
+      "hook": "Brand new app",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "tastina.com",
+      "views": 17200,
+      "likes": 585,
+      "comments": 2,
+      "shares": 2,
+      "thumbnail": "",
+      "hashtags": [
+        "fyp",
+        "viral",
+        "appoftheday"
+      ],
+      "created_at": "2026-06-15",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7614683422828678408",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@jakevanclief/video/7614683422828678408",
@@ -7993,7 +8365,7 @@
         "softwarereview"
       ],
       "created_at": "2026-03-08",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7559611860866092291",
@@ -8042,7 +8414,7 @@
         "appoftheday"
       ],
       "created_at": "2024-01-26",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7628198289778822408",
@@ -8131,6 +8503,29 @@
       ],
       "created_at": "2026-05-18",
       "scraped_at": "2026-06-15"
+    },
+    {
+      "id": "tt_7124794237308177710",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@sertacaltun_/video/7124794237308177710",
+      "caption": "Chrome extensions you need #amazonfba #amazonfbatips #ecommerce",
+      "hook": "Chrome extensions you need #amazonfba #amazonfbatips #ecommerce",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "sertacaltun_",
+      "views": 15900,
+      "likes": 737,
+      "comments": 17,
+      "shares": 84,
+      "thumbnail": "",
+      "hashtags": [
+        "amazonfba",
+        "amazonfbatips",
+        "ecommerce",
+        "chromextension"
+      ],
+      "created_at": "2022-07-26",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7534850001600613637",
@@ -8403,8 +8798,8 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "tom.developer",
-      "views": 13800,
-      "likes": 771,
+      "views": 13900,
+      "likes": 772,
       "comments": 3,
       "shares": 16,
       "thumbnail": "",
@@ -8417,7 +8812,7 @@
         "appextension"
       ],
       "created_at": "2024-04-16",
-      "scraped_at": "2026-06-12"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7644423329541115166",
@@ -8508,8 +8903,8 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "iextensions",
-      "views": 13000,
-      "likes": 247,
+      "views": 13300,
+      "likes": 251,
       "comments": 21,
       "shares": 14,
       "thumbnail": "",
@@ -8521,7 +8916,7 @@
         "appextension"
       ],
       "created_at": "2026-05-14",
-      "scraped_at": "2026-06-12"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7450409400876993814",
@@ -8693,6 +9088,27 @@
       ],
       "created_at": "2026-05-04",
       "scraped_at": "2026-06-02"
+    },
+    {
+      "id": "tt_7651784586594192670",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@omarontape/video/7651784586594192670",
+      "caption": "THE DAY HAS OFFICIALLY COME! @theofficialvlogit IS ON THE APP STORE!!! Comment “app” and i’ll send you the link to download it! make sure to join the discord community to give app suggestions and join our active community.\n\ntell all your friends. it’s time to vlogit all!\n\n#vlogit ",
+      "hook": "THE DAY HAS OFFICIALLY COME",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "omarontape",
+      "views": 11900,
+      "likes": 1555,
+      "comments": 172,
+      "shares": 444,
+      "thumbnail": "",
+      "hashtags": [
+        "vlogit",
+        "appoftheday"
+      ],
+      "created_at": "2026-06-16",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7632073950167698702",
@@ -9278,6 +9694,31 @@
       "scraped_at": "2026-06-17"
     },
     {
+      "id": "tt_7650576728456285470",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@casper.capital/video/7650576728456285470",
+      "caption": "Secret AI App Builder 🤫  #sidehustle #ai #sidehustleforbeginners #runablepartner #runableai ",
+      "hook": "Secret AI App Builder 🤫  #sidehustle #ai #sidehustleforbeginners #runablepartner #runableai",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "casper.capital",
+      "views": 9127,
+      "likes": 530,
+      "comments": 13,
+      "shares": 81,
+      "thumbnail": "",
+      "hashtags": [
+        "sidehustle",
+        "ai",
+        "sidehustleforbeginners",
+        "runablepartner",
+        "runableai",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-12",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7532557514357902599",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@uiuxwithali/video/7532557514357902599",
@@ -9613,6 +10054,31 @@
       "scraped_at": "2026-06-15"
     },
     {
+      "id": "tt_7512493352886095126",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@learnwithseb/video/7512493352886095126",
+      "caption": "This chrome extension summarizes anything in 1-click so you can learn faster. It adds over 100 AI agents to your browser.\n#LearnAI #mindstudio #mindstudioai #chromextension #aitools ",
+      "hook": "This chrome extension summarizes anything in 1-click so you can learn faster",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "learnwithseb",
+      "views": 7706,
+      "likes": 265,
+      "comments": 13,
+      "shares": 104,
+      "thumbnail": "",
+      "hashtags": [
+        "learnai",
+        "mindstudio",
+        "mindstudioai",
+        "chromextension",
+        "aitools",
+        "chromextension"
+      ],
+      "created_at": "2025-06-05",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7634397080609459478",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@ayzzthedesigner/video/7634397080609459478",
@@ -9689,31 +10155,6 @@
       ],
       "created_at": "2023-11-25",
       "scraped_at": "2026-05-31"
-    },
-    {
-      "id": "tt_7512493352886095126",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@learnwithseb/video/7512493352886095126",
-      "caption": "This chrome extension summarizes anything in 1-click so you can learn faster. It adds over 100 AI agents to your browser.\n#LearnAI #mindstudio #mindstudioai #chromextension #aitools ",
-      "hook": "This chrome extension summarizes anything in 1-click so you can learn faster",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "learnwithseb",
-      "views": 7692,
-      "likes": 265,
-      "comments": 13,
-      "shares": 104,
-      "thumbnail": "",
-      "hashtags": [
-        "learnai",
-        "mindstudio",
-        "mindstudioai",
-        "chromextension",
-        "aitools",
-        "chromextension"
-      ],
-      "created_at": "2025-06-05",
-      "scraped_at": "2026-06-16"
     },
     {
       "id": "tt_7648265437536423200",
@@ -9927,6 +10368,31 @@
       "scraped_at": "2026-06-11"
     },
     {
+      "id": "tt_7623424097397017863",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@hiyajiji/video/7623424097397017863",
+      "caption": "5 chrome extensions that make wfh easier\n\nthese are the ones i use almost every day to make my workflow smoother and less stressful:\n⭐️ gofullpage — full page screenshots in one click\n⭐️ lightshot — quick snips and easy annotations\n⭐️ awesome screen recorder — record tutorials or client walkthroughs\n⭐️ convert picture to text — copy text from images instantly\n⭐️ color picker — grab exact colors from any website\n\nwhich one are you already using, or do you have something to recommend? 🤍\n\n#workfromhome #chromeextensions #productivitytools #desksetup #wfhsetup\n\n🏷️ chrome extensions for productiv",
+      "hook": "5 chrome extensions that make wfh easier",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "hiyajiji",
+      "views": 7123,
+      "likes": 246,
+      "comments": 14,
+      "shares": 20,
+      "thumbnail": "",
+      "hashtags": [
+        "workfromhome",
+        "chromeextensions",
+        "productivitytools",
+        "desksetup",
+        "wfhsetup",
+        "chromextension"
+      ],
+      "created_at": "2026-03-31",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7638232418620574978",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@haldorsson/video/7638232418620574978",
@@ -9935,7 +10401,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "haldorsson",
-      "views": 7049,
+      "views": 7058,
       "likes": 129,
       "comments": 11,
       "shares": 19,
@@ -9947,10 +10413,10 @@
         "aibuilder",
         "aibuilders",
         "aitools",
-        "appextension"
+        "chromextension"
       ],
       "created_at": "2026-05-10",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7499847366296472854",
@@ -9977,31 +10443,6 @@
       ],
       "created_at": "2025-05-02",
       "scraped_at": "2026-06-10"
-    },
-    {
-      "id": "tt_7623424097397017863",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@hiyajiji/video/7623424097397017863",
-      "caption": "5 chrome extensions that make wfh easier\n\nthese are the ones i use almost every day to make my workflow smoother and less stressful:\n⭐️ gofullpage — full page screenshots in one click\n⭐️ lightshot — quick snips and easy annotations\n⭐️ awesome screen recorder — record tutorials or client walkthroughs\n⭐️ convert picture to text — copy text from images instantly\n⭐️ color picker — grab exact colors from any website\n\nwhich one are you already using, or do you have something to recommend? 🤍\n\n#workfromhome #chromeextensions #productivitytools #desksetup #wfhsetup\n\n🏷️ chrome extensions for productiv",
-      "hook": "5 chrome extensions that make wfh easier",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "hiyajiji",
-      "views": 6942,
-      "likes": 237,
-      "comments": 14,
-      "shares": 20,
-      "thumbnail": "",
-      "hashtags": [
-        "workfromhome",
-        "chromeextensions",
-        "productivitytools",
-        "desksetup",
-        "wfhsetup",
-        "chromextension"
-      ],
-      "created_at": "2026-03-31",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7634740562150591758",
@@ -10055,6 +10496,28 @@
       "scraped_at": "2026-06-17"
     },
     {
+      "id": "tt_7615442054155406605",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@justaventaccount12/video/7615442054155406605",
+      "caption": "The app is I Am Sober#vent#IAmSober",
+      "hook": "The app is I Am Sober#vent#IAmSober",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "justaventaccount12",
+      "views": 6554,
+      "likes": 144,
+      "comments": 15,
+      "shares": 9,
+      "thumbnail": "",
+      "hashtags": [
+        "vent",
+        "iamsober",
+        "appoftheday"
+      ],
+      "created_at": "2026-03-10",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7636460135954582807",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@viralcosmeticss/video/7636460135954582807",
@@ -10078,28 +10541,6 @@
       ],
       "created_at": "2026-05-05",
       "scraped_at": "2026-06-17"
-    },
-    {
-      "id": "tt_7615442054155406605",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@justaventaccount12/video/7615442054155406605",
-      "caption": "The app is I Am Sober#vent#IAmSober",
-      "hook": "The app is I Am Sober#vent#IAmSober",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "justaventaccount12",
-      "views": 6409,
-      "likes": 142,
-      "comments": 15,
-      "shares": 9,
-      "thumbnail": "",
-      "hashtags": [
-        "vent",
-        "iamsober",
-        "appoftheday"
-      ],
-      "created_at": "2026-03-10",
-      "scraped_at": "2026-06-15"
     },
     {
       "id": "tt_7644975905097518350",
@@ -10214,8 +10655,8 @@
       "hook_label": "DEMO",
       "has_product": false,
       "author": "aquatechfantasy",
-      "views": 6052,
-      "likes": 32,
+      "views": 6192,
+      "likes": 37,
       "comments": 2,
       "shares": 1,
       "thumbnail": "",
@@ -10228,7 +10669,7 @@
         "appextension"
       ],
       "created_at": "2026-04-12",
-      "scraped_at": "2026-06-15"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7608986689536642317",
@@ -10672,8 +11113,8 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "theecomwolf",
-      "views": 4584,
-      "likes": 291,
+      "views": 4585,
+      "likes": 292,
       "comments": 5,
       "shares": 51,
       "thumbnail": "",
@@ -10690,7 +11131,7 @@
         "chromextension"
       ],
       "created_at": "2022-09-06",
-      "scraped_at": "2026-06-15"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7558775285114539286",
@@ -10714,6 +11155,31 @@
       ],
       "created_at": "2025-10-08",
       "scraped_at": "2026-06-09"
+    },
+    {
+      "id": "tt_7649433214716480784",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@zoesullivanofficial/video/7649433214716480784",
+      "caption": "Stop scrolling if you want a million dollar app idea AND a full build plan in under 60 seconds. 🤯\n\nMost people waste months brainstorming. Here's the cheat code nobody's talking about:\n\n1️⃣ Go to the App Store. Find the #1 app in any category. 2️⃣ Screenshot the app + its description. 3️⃣ Screenshot the REVIEWS. This is where the gold is. 🏆 4️⃣ Feed it all to Claude. 5️⃣ Ask it to reverse-engineer the app — ideal client, #1 pain point, and the gap the app is completely missing.\n\nClaude tells you WHO to build for, WHAT problem to solve, and WHERE to take market share.\n\nThen I asked it one mor",
+      "hook": "Stop scrolling if you want a million dollar app idea AND a full build plan in under 60 seconds",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "zoesullivanofficial",
+      "views": 4445,
+      "likes": 183,
+      "comments": 10,
+      "shares": 115,
+      "thumbnail": "",
+      "hashtags": [
+        "1",
+        "1",
+        "claude",
+        "ai",
+        "appideas",
+        "appoftheday"
+      ],
+      "created_at": "2026-06-09",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7493117462137867528",
@@ -10840,6 +11306,30 @@
       "scraped_at": "2026-06-15"
     },
     {
+      "id": "tt_7646155176558038302",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@chanta1449/video/7646155176558038302",
+      "caption": "Is it true to not download the  latest software upgrade!? (26.5)\nPeople are reporting that their phones and another devices are messing up now because of this! \n#apple #upgrade #iphone #software ",
+      "hook": "Is it true to not download the  latest software upgrade",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "chanta1449",
+      "views": 3954,
+      "likes": 23,
+      "comments": 18,
+      "shares": 38,
+      "thumbnail": "",
+      "hashtags": [
+        "apple",
+        "upgrade",
+        "iphone",
+        "software",
+        "softwarereview"
+      ],
+      "created_at": "2026-05-31",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7646513011410226463",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@petevza/video/7646513011410226463",
@@ -10863,6 +11353,26 @@
       ],
       "created_at": "2026-06-01",
       "scraped_at": "2026-06-11"
+    },
+    {
+      "id": "tt_7644365506660666655",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@heyimtran/video/7644365506660666655",
+      "caption": "💗 grab your seat to my Twitter (X) personal branding workshop in my link in bio!! \n\nugc creator, ugc example, ugc tips, how to become a ugc creator 2026, how to start ugc, ugc portfolio, content creator tips, make money as a creator, how to become an influencer, phoenix Arizona ugc creator, lifestyle UGC, food UGC, movie date night",
+      "hook": "💗 grab your seat to my Twitter (X) personal branding workshop in my link in bio",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "heyimtran",
+      "views": 3839,
+      "likes": 306,
+      "comments": 24,
+      "shares": 18,
+      "thumbnail": "",
+      "hashtags": [
+        "ugccontentcreator"
+      ],
+      "created_at": "2026-05-27",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7633142403427290401",
@@ -11017,6 +11527,31 @@
       "scraped_at": "2026-06-16"
     },
     {
+      "id": "tt_7650952434868686111",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@smiles.with.sarah/video/7650952434868686111",
+      "caption": "By far my favorite dental hygienist temp app! Code sarah273 🫶🏼 W2, instant pay, malpractice insurance it’s just an amazing app that I absolutely love! Honest review on dental temp apps #reviews #teero #dentalhygienist #temp #fyp ",
+      "hook": "By far my favorite dental hygienist temp app",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "smiles.with.sarah",
+      "views": 3250,
+      "likes": 118,
+      "comments": 4,
+      "shares": 20,
+      "thumbnail": "",
+      "hashtags": [
+        "reviews",
+        "teero",
+        "dentalhygienist",
+        "temp",
+        "fyp",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-13",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7615442189727829279",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@abglover696969/video/7615442189727829279",
@@ -11025,7 +11560,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "abglover696969",
-      "views": 3196,
+      "views": 3199,
       "likes": 148,
       "comments": 2,
       "shares": 12,
@@ -11039,7 +11574,7 @@
         "chromextension"
       ],
       "created_at": "2026-03-10",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7567212044345199903",
@@ -11109,31 +11644,6 @@
       ],
       "created_at": "2023-07-28",
       "scraped_at": "2026-06-12"
-    },
-    {
-      "id": "tt_7650952434868686111",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@smiles.with.sarah/video/7650952434868686111",
-      "caption": "By far my favorite dental hygienist temp app! Code sarah273 🫶🏼 W2, instant pay, malpractice insurance it’s just an amazing app that I absolutely love! Honest review on dental temp apps #reviews #teero #dentalhygienist #temp #fyp ",
-      "hook": "By far my favorite dental hygienist temp app",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "smiles.with.sarah",
-      "views": 3015,
-      "likes": 110,
-      "comments": 3,
-      "shares": 16,
-      "thumbnail": "",
-      "hashtags": [
-        "reviews",
-        "teero",
-        "dentalhygienist",
-        "temp",
-        "fyp",
-        "softwarereview"
-      ],
-      "created_at": "2026-06-13",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7529187247992769794",
@@ -11313,26 +11823,6 @@
       "scraped_at": "2026-06-08"
     },
     {
-      "id": "tt_7644365506660666655",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@heyimtran/video/7644365506660666655",
-      "caption": "💗 grab your seat to my Twitter (X) personal branding workshop in my link in bio!! \n\nugc creator, ugc example, ugc tips, how to become a ugc creator 2026, how to start ugc, ugc portfolio, content creator tips, make money as a creator, how to become an influencer, phoenix Arizona ugc creator, lifestyle UGC, food UGC, movie date night",
-      "hook": "💗 grab your seat to my Twitter (X) personal branding workshop in my link in bio",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "heyimtran",
-      "views": 2821,
-      "likes": 233,
-      "comments": 14,
-      "shares": 14,
-      "thumbnail": "",
-      "hashtags": [
-        "ugccontentcreator"
-      ],
-      "created_at": "2026-05-27",
-      "scraped_at": "2026-06-11"
-    },
-    {
       "id": "tt_7641262667335748871",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@ikramrana_reallifeai/video/7641262667335748871",
@@ -11385,7 +11875,7 @@
         "appextension"
       ],
       "created_at": "2025-06-18",
-      "scraped_at": "2026-06-16"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7252424770757725486",
@@ -11747,6 +12237,26 @@
       "scraped_at": "2026-06-11"
     },
     {
+      "id": "tt_7599070833721560351",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@trumancyber/video/7599070833721560351",
+      "caption": "This is a tricky one. A Chrome extension meant to lay low for an hour after installation before locking up your browser, and upon restarting, show you a series of sneaky popups with the end goal of getting you to press some key commands which don’t fix the problem- they install malware. It’s CrashFix, a variant of ClickFix. Nice research by Huntress!",
+      "hook": "This is a tricky one",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "trumancyber",
+      "views": 2138,
+      "likes": 76,
+      "comments": 2,
+      "shares": 5,
+      "thumbnail": "",
+      "hashtags": [
+        "chromextension"
+      ],
+      "created_at": "2026-01-24",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7496285783276539144",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@vasystems/video/7496285783276539144",
@@ -11775,24 +12285,24 @@
       "scraped_at": "2026-06-03"
     },
     {
-      "id": "tt_7599070833721560351",
+      "id": "tt_7572052431807286542",
       "platform": "tiktok",
-      "url": "https://www.tiktok.com/@trumancyber/video/7599070833721560351",
-      "caption": "This is a tricky one. A Chrome extension meant to lay low for an hour after installation before locking up your browser, and upon restarting, show you a series of sneaky popups with the end goal of getting you to press some key commands which don’t fix the problem- they install malware. It’s CrashFix, a variant of ClickFix. Nice research by Huntress!",
-      "hook": "This is a tricky one",
+      "url": "https://www.tiktok.com/@quietlyai/video/7572052431807286542",
+      "caption": "Download Quietly, the free AI chrome extension for canvas that saves you hours per week on assignments and studying",
+      "hook": "Download Quietly, the free AI chrome extension for canvas that saves you hours per week on assignments and studying",
       "hook_label": "OTHER",
       "has_product": true,
-      "author": "trumancyber",
-      "views": 2118,
-      "likes": 76,
+      "author": "quietlyai",
+      "views": 2064,
+      "likes": 16,
       "comments": 2,
-      "shares": 5,
+      "shares": 1,
       "thumbnail": "",
       "hashtags": [
-        "chromextension"
+        "appextension"
       ],
-      "created_at": "2026-01-24",
-      "scraped_at": "2026-06-12"
+      "created_at": "2025-11-13",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7569758587187137810",
@@ -11838,26 +12348,6 @@
       ],
       "created_at": "2026-05-01",
       "scraped_at": "2026-06-09"
-    },
-    {
-      "id": "tt_7572052431807286542",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@quietlyai/video/7572052431807286542",
-      "caption": "Download Quietly, the free AI chrome extension for canvas that saves you hours per week on assignments and studying",
-      "hook": "Download Quietly, the free AI chrome extension for canvas that saves you hours per week on assignments and studying",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "quietlyai",
-      "views": 1967,
-      "likes": 16,
-      "comments": 2,
-      "shares": 1,
-      "thumbnail": "",
-      "hashtags": [
-        "appextension"
-      ],
-      "created_at": "2025-11-13",
-      "scraped_at": "2026-06-08"
     },
     {
       "id": "tt_7627354475702930708",
@@ -12139,6 +12629,51 @@
       "scraped_at": "2026-06-07"
     },
     {
+      "id": "tt_7593460179019042070",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@herovibesyt/video/7593460179019042070",
+      "caption": "Chrome Extensions you NEED to Know!",
+      "hook": "Chrome Extensions you NEED to Know",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "herovibesyt",
+      "views": 1759,
+      "likes": 56,
+      "comments": 3,
+      "shares": 4,
+      "thumbnail": "",
+      "hashtags": [
+        "chromextension"
+      ],
+      "created_at": "2026-01-09",
+      "scraped_at": "2026-06-18"
+    },
+    {
+      "id": "tt_7619111539177426196",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@solaitions.com/video/7619111539177426196",
+      "caption": "How to use OpenClaw's browser control? Install the official Claw Launcher Chrome extension for seamless integration with your signed-in browser. It's a game-changer! #OpenClaw #ClawLauncher #BrowserControl #TechTips #AndroidApps",
+      "hook": "How to use OpenClaw's browser control",
+      "hook_label": "DEMO",
+      "has_product": true,
+      "author": "solaitions.com",
+      "views": 1732,
+      "likes": 41,
+      "comments": 5,
+      "shares": 8,
+      "thumbnail": "",
+      "hashtags": [
+        "openclaw",
+        "clawlauncher",
+        "browsercontrol",
+        "techtips",
+        "androidapps",
+        "appextension"
+      ],
+      "created_at": "2026-03-19",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7651486566648401166",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@sophia.designsthings/video/7651486566648401166",
@@ -12187,6 +12722,30 @@
       ],
       "created_at": "2026-03-30",
       "scraped_at": "2026-06-11"
+    },
+    {
+      "id": "tt_7634451403045358878",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@kalinaisabella/video/7634451403045358878",
+      "caption": "Servers & bartenders, what do you think of the Rise app? #serverlife #bartenderlife #adhd #funny ",
+      "hook": "Servers & bartenders, what do you think of the Rise app",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "kalinaisabella",
+      "views": 1728,
+      "likes": 25,
+      "comments": 0,
+      "shares": 0,
+      "thumbnail": "",
+      "hashtags": [
+        "serverlife",
+        "bartenderlife",
+        "adhd",
+        "funny",
+        "appoftheday"
+      ],
+      "created_at": "2026-04-30",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7525049468673166598",
@@ -13261,6 +13820,31 @@
       "scraped_at": "2026-06-10"
     },
     {
+      "id": "tt_7652140145700883725",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@byysid/video/7652140145700883725",
+      "caption": "stop overcomplicating your content and start searching for the right job model! \n\nIf you’re new here, hey girl! my name’s Sidney, and I’m building @Creator Era by Sid - where I connect the top Tech UGC creators with high-paying clients. I’ve helped creators land 5-figure Tech UGC deals after running my own six-figure content business 🤍\n\nI’ve helped creators land their first retainers, scale viral videos into income, and build consistent creator revenue without needing huge followings.\n\nIf you want the exact roadmap I’d follow to start Tech UGC today, I created a free breakdown that shows:\n🤍 ",
+      "hook": "stop overcomplicating your content and start searching for the right job model",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "byysid",
+      "views": 1170,
+      "likes": 87,
+      "comments": 6,
+      "shares": 4,
+      "thumbnail": "",
+      "hashtags": [
+        "techugc",
+        "ugc",
+        "ugccreator",
+        "contentcreator",
+        "sidehustle",
+        "ugccreator"
+      ],
+      "created_at": "2026-06-16",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7633866222890831124",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@cattygatto/video/7633866222890831124",
@@ -13280,6 +13864,26 @@
       ],
       "created_at": "2026-04-28",
       "scraped_at": "2026-06-15"
+    },
+    {
+      "id": "tt_7647722528030346527",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@allysonashekun/video/7647722528030346527",
+      "caption": "My workflow for building apps with Claude as a software engineer 👩🏽‍💻",
+      "hook": "My workflow for building apps with Claude as a software engineer 👩🏽‍💻",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "allysonashekun",
+      "views": 1146,
+      "likes": 103,
+      "comments": 5,
+      "shares": 5,
+      "thumbnail": "",
+      "hashtags": [
+        "softwarereview"
+      ],
+      "created_at": "2026-06-05",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7632085661251538183",
@@ -13307,6 +13911,28 @@
       "scraped_at": "2026-06-15"
     },
     {
+      "id": "tt_7634261463833595158",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@global_techgirl/video/7634261463833595158",
+      "caption": "Claude's Chrome extension is the unlock that makes Claude actually useful day to day.\n\nTrain it to do your tasks once and watch your productivity go up.\n\nVisit Claude.com/chrome to install it \n\n#claude #chromeextension",
+      "hook": "Claude's Chrome extension is the unlock that makes Claude actually useful day to day",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "global_techgirl",
+      "views": 1135,
+      "likes": 66,
+      "comments": 11,
+      "shares": 11,
+      "thumbnail": "",
+      "hashtags": [
+        "claude",
+        "chromeextension",
+        "chromextension"
+      ],
+      "created_at": "2026-04-29",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7639068909395610902",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@mrmikebj/video/7639068909395610902",
@@ -13330,28 +13956,6 @@
       ],
       "created_at": "2026-05-12",
       "scraped_at": "2026-05-31"
-    },
-    {
-      "id": "tt_7634261463833595158",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@global_techgirl/video/7634261463833595158",
-      "caption": "Claude's Chrome extension is the unlock that makes Claude actually useful day to day.\n\nTrain it to do your tasks once and watch your productivity go up.\n\nVisit Claude.com/chrome to install it \n\n#claude #chromeextension",
-      "hook": "Claude's Chrome extension is the unlock that makes Claude actually useful day to day",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "global_techgirl",
-      "views": 1116,
-      "likes": 65,
-      "comments": 11,
-      "shares": 11,
-      "thumbnail": "",
-      "hashtags": [
-        "claude",
-        "chromeextension",
-        "chromextension"
-      ],
-      "created_at": "2026-04-29",
-      "scraped_at": "2026-06-11"
     },
     {
       "id": "tt_7637212348750630158",
@@ -13446,6 +14050,31 @@
       ],
       "created_at": "2026-06-05",
       "scraped_at": "2026-06-06"
+    },
+    {
+      "id": "tt_7622152919114075405",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@sophia.designsthings/video/7622152919114075405",
+      "caption": "building apps on newly.app is the new meta tbh\n\n#vibecoding #computerscience #vibecode #coding #website ",
+      "hook": "building apps on newly",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "sophia.designsthings",
+      "views": 1069,
+      "likes": 48,
+      "comments": 4,
+      "shares": 4,
+      "thumbnail": "",
+      "hashtags": [
+        "vibecoding",
+        "computerscience",
+        "vibecode",
+        "coding",
+        "website",
+        "appoftheday"
+      ],
+      "created_at": "2026-03-28",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7525450620640300310",
@@ -13548,31 +14177,6 @@
       "scraped_at": "2026-06-15"
     },
     {
-      "id": "tt_7622152919114075405",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@sophia.designsthings/video/7622152919114075405",
-      "caption": "building apps on newly.app is the new meta tbh\n\n#vibecoding #computerscience #vibecode #coding #website ",
-      "hook": "building apps on newly",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "sophia.designsthings",
-      "views": 979,
-      "likes": 43,
-      "comments": 4,
-      "shares": 4,
-      "thumbnail": "",
-      "hashtags": [
-        "vibecoding",
-        "computerscience",
-        "vibecode",
-        "coding",
-        "website",
-        "appoftheday"
-      ],
-      "created_at": "2026-03-28",
-      "scraped_at": "2026-05-28"
-    },
-    {
       "id": "tt_7646508996643294465",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@isma_co0/video/7646508996643294465",
@@ -13581,7 +14185,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "isma_co0",
-      "views": 971,
+      "views": 978,
       "likes": 12,
       "comments": 2,
       "shares": 0,
@@ -13596,7 +14200,7 @@
         "chromextension"
       ],
       "created_at": "2026-06-07",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7648203978102148360",
@@ -13646,6 +14250,26 @@
       ],
       "created_at": "2026-06-14",
       "scraped_at": "2026-06-15"
+    },
+    {
+      "id": "tt_7651895068697054486",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@user39833909244078/video/7651895068697054486",
+      "caption": "REVIEW OF THE BEST CHEAT FOR BLACK RUSSIA - CHEAT FOR BLACK RUSSIA - SOFTWARE FOR BR - RVANKA CHEAT - RVANKA BLACK RUSSIA - YouTube (1)",
+      "hook": "REVIEW OF THE BEST CHEAT FOR BLACK RUSSIA - CHEAT FOR BLACK RUSSIA - SOFTWARE FOR BR - RVANKA CHEAT - RVANKA BLACK RUSSIA - YouTube (1)",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "user39833909244078",
+      "views": 965,
+      "likes": 30,
+      "comments": 8,
+      "shares": 1,
+      "thumbnail": "",
+      "hashtags": [
+        "softwarereview"
+      ],
+      "created_at": "2026-06-16",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7644213126522604832",
@@ -13724,6 +14348,38 @@
       "scraped_at": "2026-05-26"
     },
     {
+      "id": "tt_7462576263505399086",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@bilingualtechprofe/video/7462576263505399086",
+      "caption": "🎉 Must-Have Chrome Extensions for Teachers! 🌟 \n\nTransform your teaching experience with these incredible tools designed to make your life easier and your lessons more engaging! 🧑‍🏫✨\n\n💡 Screenshot to save the list and try them all! ✨ Let these tools take your teaching to the next level. 🚀\n\nSAVE & FOLLOW for more teacher tips that make an impact! ❤️\n\n#TeacherTools #EdTechForTeachers #InnovativeTeaching #ClassroomHacks #EducationMatters #TeacherTips #21stCenturySkills #DigitalClassroom #ChromeExtensions #TeacherLife #foryou #fyppppppppppppppppppppppp ",
+      "hook": "🎉 Must-Have Chrome Extensions for Teachers",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "bilingualtechprofe",
+      "views": 945,
+      "likes": 56,
+      "comments": 5,
+      "shares": 0,
+      "thumbnail": "",
+      "hashtags": [
+        "teachertools",
+        "edtechforteachers",
+        "innovativeteaching",
+        "classroomhacks",
+        "educationmatters",
+        "teachertips",
+        "21stcenturyskills",
+        "digitalclassroom",
+        "chromeextensions",
+        "teacherlife",
+        "foryou",
+        "fyppppppppppppppppppppppp",
+        "chromextension"
+      ],
+      "created_at": "2025-01-22",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7646470962396826912",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@mina.june3/video/7646470962396826912",
@@ -13747,6 +14403,31 @@
       ],
       "created_at": "2026-06-01",
       "scraped_at": "2026-06-07"
+    },
+    {
+      "id": "tt_7647873692856225037",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@legitalgorithmswithpeter/video/7647873692856225037",
+      "caption": "🌐 Want to make Chrome instantly better? 😳\n\nThese are 3 extensions I install on almost every browser 👇\n\n🛡️ uBlock Origin\nBlocks ads, trackers, popups, and all the internet nonsense.\n\n✍️ LanguageTool\nCatches grammar mistakes, typos, and awkward sentences everywhere you type.\n\n🌙 Dark Reader\nAdds dark mode to almost any website on the internet.\n\nBasically:\n\n❌ More distractions\n❌ More eye strain\n❌ More embarrassing typos\n\n✅ Cleaner browsing\n✅ Better writing\n✅ Better late-night browsing\n\nThree tiny extensions doing more for productivity than most “life hack” videos 😭\n\n👇 Comment “tools” and I’",
+      "hook": "🌐 Want to make Chrome instantly better",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "legitalgorithmswithpeter",
+      "views": 927,
+      "likes": 34,
+      "comments": 0,
+      "shares": 9,
+      "thumbnail": "",
+      "hashtags": [
+        "chromeextensions",
+        "productivitytools",
+        "browsertips",
+        "techtools",
+        "googlechrome",
+        "chromextension"
+      ],
+      "created_at": "2026-06-05",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7647849500391771405",
@@ -13792,31 +14473,6 @@
       ],
       "created_at": "2026-05-27",
       "scraped_at": "2026-05-27"
-    },
-    {
-      "id": "tt_7647873692856225037",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@legitalgorithmswithpeter/video/7647873692856225037",
-      "caption": "🌐 Want to make Chrome instantly better? 😳\n\nThese are 3 extensions I install on almost every browser 👇\n\n🛡️ uBlock Origin\nBlocks ads, trackers, popups, and all the internet nonsense.\n\n✍️ LanguageTool\nCatches grammar mistakes, typos, and awkward sentences everywhere you type.\n\n🌙 Dark Reader\nAdds dark mode to almost any website on the internet.\n\nBasically:\n\n❌ More distractions\n❌ More eye strain\n❌ More embarrassing typos\n\n✅ Cleaner browsing\n✅ Better writing\n✅ Better late-night browsing\n\nThree tiny extensions doing more for productivity than most “life hack” videos 😭\n\n👇 Comment “tools” and I’",
-      "hook": "🌐 Want to make Chrome instantly better",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "legitalgorithmswithpeter",
-      "views": 911,
-      "likes": 34,
-      "comments": 0,
-      "shares": 9,
-      "thumbnail": "",
-      "hashtags": [
-        "chromeextensions",
-        "productivitytools",
-        "browsertips",
-        "techtools",
-        "googlechrome",
-        "chromextension"
-      ],
-      "created_at": "2026-06-05",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7651432538619022623",
@@ -13868,6 +14524,31 @@
       "scraped_at": "2026-06-05"
     },
     {
+      "id": "tt_7631736015304133902",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@adri_molinar1/video/7631736015304133902",
+      "caption": "The Social Limits App is the only thing helping me change my scrolling habit rn 🥲\n\nI did the math and realized I’m on track to spend years of my life on my phone… just scrolling, refreshing, and chasing nothing.\n\nPhone addiction is real, and no one talks about how hard it is to break because these apps are literally designed to keep you hooked.\n\nI tried willpower, timers, deleting apps… none of it stuck.\n\nThis is the first thing that actually forced me to change my habits.\n\nThe Social Limits app locks my apps until I hit my movement goal, so I physically have to get up and live my life before",
+      "hook": "The Social Limits App is the only thing helping me change my scrolling habit rn 🥲",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "adri_molinar1",
+      "views": 881,
+      "likes": 74,
+      "comments": 2,
+      "shares": 5,
+      "thumbnail": "",
+      "hashtags": [
+        "digitaldetox",
+        "SelfImprovement",
+        "phoneaddict",
+        "phoneaddiction",
+        "brainrot",
+        "appoftheday"
+      ],
+      "created_at": "2026-04-22",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7644944594387389726",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@eduwithdrb/video/7644944594387389726",
@@ -13915,7 +14596,7 @@
         "appoftheday"
       ],
       "created_at": "2025-10-08",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7647677015037988110",
@@ -14026,26 +14707,6 @@
       ],
       "created_at": "2026-05-30",
       "scraped_at": "2026-06-09"
-    },
-    {
-      "id": "tt_7651895068697054486",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@user39833909244078/video/7651895068697054486",
-      "caption": "REVIEW OF THE BEST CHEAT FOR BLACK RUSSIA - CHEAT FOR BLACK RUSSIA - SOFTWARE FOR BR - RVANKA CHEAT - RVANKA BLACK RUSSIA - YouTube (1)",
-      "hook": "REVIEW OF THE BEST CHEAT FOR BLACK RUSSIA - CHEAT FOR BLACK RUSSIA - SOFTWARE FOR BR - RVANKA CHEAT - RVANKA BLACK RUSSIA - YouTube (1)",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "user39833909244078",
-      "views": 802,
-      "likes": 27,
-      "comments": 7,
-      "shares": 1,
-      "thumbnail": "",
-      "hashtags": [
-        "softwarereview"
-      ],
-      "created_at": "2026-06-16",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7641236955103137026",
@@ -14225,7 +14886,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "benjooo41",
-      "views": 762,
+      "views": 764,
       "likes": 9,
       "comments": 0,
       "shares": 0,
@@ -14246,7 +14907,7 @@
         "softwarereview"
       ],
       "created_at": "2025-04-12",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7586020664868490526",
@@ -14372,7 +15033,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "therealvan8x",
-      "views": 713,
+      "views": 716,
       "likes": 36,
       "comments": 3,
       "shares": 4,
@@ -14386,7 +15047,7 @@
         "appextension"
       ],
       "created_at": "2026-05-04",
-      "scraped_at": "2026-06-12"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7647813337325047062",
@@ -14496,7 +15157,7 @@
       "hook_label": "OTHER",
       "has_product": true,
       "author": "bridgetdotcary",
-      "views": 694,
+      "views": 695,
       "likes": 81,
       "comments": 33,
       "shares": 6,
@@ -14508,7 +15169,7 @@
         "softwarereview"
       ],
       "created_at": "2026-05-28",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7639273206888680726",
@@ -15029,6 +15690,31 @@
       "scraped_at": "2026-06-04"
     },
     {
+      "id": "tt_7650560134707563808",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@bestreviewsnet/video/7650560134707563808",
+      "caption": "Global hiring just got a whole lot easier. 🤯 No foreign entities, no international tax headaches, just one-click compliance. We just deep-dived into the best EOR software on the market: hit the link in our bio to see which ones actually transcend the game. 🌍✨\n#EOR #EmployerOfRecord #Trending #FYP #ForYou ",
+      "hook": "Global hiring just got a whole lot easier",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "bestreviewsnet",
+      "views": 564,
+      "likes": 5,
+      "comments": 0,
+      "shares": 1,
+      "thumbnail": "",
+      "hashtags": [
+        "eor",
+        "employerofrecord",
+        "trending",
+        "fyp",
+        "foryou",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-12",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7651508445916499218",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@artechulate.softw/video/7651508445916499218",
@@ -15076,31 +15762,6 @@
       ],
       "created_at": "2026-05-14",
       "scraped_at": "2026-05-29"
-    },
-    {
-      "id": "tt_7650560134707563808",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@bestreviewsnet/video/7650560134707563808",
-      "caption": "Global hiring just got a whole lot easier. 🤯 No foreign entities, no international tax headaches, just one-click compliance. We just deep-dived into the best EOR software on the market: hit the link in our bio to see which ones actually transcend the game. 🌍✨\n#EOR #EmployerOfRecord #Trending #FYP #ForYou ",
-      "hook": "Global hiring just got a whole lot easier",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "bestreviewsnet",
-      "views": 536,
-      "likes": 2,
-      "comments": 0,
-      "shares": 1,
-      "thumbnail": "",
-      "hashtags": [
-        "eor",
-        "employerofrecord",
-        "trending",
-        "fyp",
-        "foryou",
-        "softwarereview"
-      ],
-      "created_at": "2026-06-12",
-      "scraped_at": "2026-06-14"
     },
     {
       "id": "tt_7644993570327448835",
@@ -15579,6 +16240,31 @@
       "scraped_at": "2026-05-28"
     },
     {
+      "id": "tt_7651666636952456478",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@fifbuilds/video/7651666636952456478",
+      "caption": "The 5 Chrome extensions I have installed on every machine: designer edition. Muzli for passive inspiration, Fonts Ninja to ID any font in seconds, ColorZilla for instant color picking, Markup Hero for scrolling screenshots, and the Figma extension to pull any webpage straight into your canvas as editable layers. Part 2 coming. What’s in your toolbar?\n\n#productdesign #webdesign #designinspiration #chromeextension #aitools ",
+      "hook": "The 5 Chrome extensions I have installed on every machine: designer edition",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "fifbuilds",
+      "views": 419,
+      "likes": 19,
+      "comments": 0,
+      "shares": 2,
+      "thumbnail": "",
+      "hashtags": [
+        "productdesign",
+        "webdesign",
+        "designinspiration",
+        "chromeextension",
+        "aitools",
+        "chromextension"
+      ],
+      "created_at": "2026-06-15",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7644274947518369037",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@phoenix_security007/video/7644274947518369037",
@@ -15735,31 +16421,6 @@
         "softwarereview"
       ],
       "created_at": "2026-06-16",
-      "scraped_at": "2026-06-17"
-    },
-    {
-      "id": "tt_7651666636952456478",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@fifbuilds/video/7651666636952456478",
-      "caption": "The 5 Chrome extensions I have installed on every machine: designer edition. Muzli for passive inspiration, Fonts Ninja to ID any font in seconds, ColorZilla for instant color picking, Markup Hero for scrolling screenshots, and the Figma extension to pull any webpage straight into your canvas as editable layers. Part 2 coming. What’s in your toolbar?\n\n#productdesign #webdesign #designinspiration #chromeextension #aitools ",
-      "hook": "The 5 Chrome extensions I have installed on every machine: designer edition",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "fifbuilds",
-      "views": 365,
-      "likes": 15,
-      "comments": 0,
-      "shares": 2,
-      "thumbnail": "",
-      "hashtags": [
-        "productdesign",
-        "webdesign",
-        "designinspiration",
-        "chromeextension",
-        "aitools",
-        "chromextension"
-      ],
-      "created_at": "2026-06-15",
       "scraped_at": "2026-06-17"
     },
     {
@@ -15992,7 +16653,7 @@
         "chromextension"
       ],
       "created_at": "2026-05-20",
-      "scraped_at": "2026-06-16"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7636107970815790358",
@@ -16213,7 +16874,7 @@
         "softwarereview"
       ],
       "created_at": "2026-06-14",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7593363216273591607",
@@ -16575,7 +17236,7 @@
         "appoftheday"
       ],
       "created_at": "2023-07-26",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7651751074243579150",
@@ -16666,7 +17327,7 @@
         "softwarereview"
       ],
       "created_at": "2026-06-16",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7643977784733240607",
@@ -16691,6 +17352,32 @@
       ],
       "created_at": "2026-05-25",
       "scraped_at": "2026-05-31"
+    },
+    {
+      "id": "tt_7646069300565904653",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@capital.city.roofing/video/7646069300565904653",
+      "caption": "Teaching AI & creating SOPs made easy. Record your actions with this Chrome extension and watch the magic happen. #AI #Tech #SOP #Productivity #ChromeExtension #Tutorial",
+      "hook": "Teaching AI & creating SOPs made easy",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "capital.city.roofing",
+      "views": 217,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "thumbnail": "",
+      "hashtags": [
+        "ai",
+        "tech",
+        "sop",
+        "productivity",
+        "chromeextension",
+        "tutorial",
+        "chromextension"
+      ],
+      "created_at": "2026-05-31",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7634348444924005663",
@@ -17052,6 +17739,29 @@
       "scraped_at": "2026-05-31"
     },
     {
+      "id": "tt_7652019435883990286",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@secweekly/video/7652019435883990286",
+      "caption": "AI can write code.\nBut who owns it? Who modified it? Who is accountable when something goes wrong?\nMatias Madou argues that traditional software governance was built around humans creating and reviewing code. AI changes that model completely.\nAs AI-generated code becomes more common, how should organizations track responsibility and trust?\n#AppSec #AICode #SoftwareSecurity",
+      "hook": "AI can write code",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "secweekly",
+      "views": 160,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "thumbnail": "",
+      "hashtags": [
+        "appsec",
+        "aicode",
+        "softwaresecurity",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-16",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7648036856684236046",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@matriarch.mnd/video/7648036856684236046",
@@ -17204,6 +17914,30 @@
       ],
       "created_at": "2026-06-05",
       "scraped_at": "2026-06-10"
+    },
+    {
+      "id": "tt_7650186227978718477",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@ms.pros0/video/7650186227978718477",
+      "caption": "This app makes our lives easier!! #ContractorLife #ContractorTools #EstimatingSoftware #SmallBusiness ",
+      "hook": "This app makes our lives easier",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "ms.pros0",
+      "views": 125,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "thumbnail": "",
+      "hashtags": [
+        "contractorlife",
+        "contractortools",
+        "estimatingsoftware",
+        "smallbusiness",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-11",
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7642551488442567966",
@@ -17413,7 +18147,7 @@
         "appoftheday"
       ],
       "created_at": "2026-05-16",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7644384159477107998",
@@ -17568,6 +18302,29 @@
       "scraped_at": "2026-05-31"
     },
     {
+      "id": "tt_7652121072703212814",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@ai_business_blueprint/video/7652121072703212814",
+      "caption": "Welcome to AI Business Blueprint.\n\nWe help small business owners discover practical ways to use artificial intelligence to save time, automate repetitive tasks, increase productivity, and grow their businesses.\n\nNo hype.\nNo fluff.\nJust actionable AI strategies, tools, automations, and systems that create real business results.\n\nSubscribe for weekly AI insights, software reviews, tutorials, and business growth strategies. #AIBusinessBlueprint #SmallBusinessAI #BusinessAutomation ",
+      "hook": "Welcome to AI Business Blueprint",
+      "hook_label": "OTHER",
+      "has_product": true,
+      "author": "ai_business_blueprint",
+      "views": 86,
+      "likes": 1,
+      "comments": 1,
+      "shares": 1,
+      "thumbnail": "",
+      "hashtags": [
+        "aibusinessblueprint",
+        "smallbusinessai",
+        "businessautomation",
+        "softwarereview"
+      ],
+      "created_at": "2026-06-16",
+      "scraped_at": "2026-06-18"
+    },
+    {
       "id": "tt_7582493036303715614",
       "platform": "tiktok",
       "url": "https://www.tiktok.com/@sweeetbb/video/7582493036303715614",
@@ -17639,29 +18396,6 @@
       ],
       "created_at": "2026-06-02",
       "scraped_at": "2026-06-02"
-    },
-    {
-      "id": "tt_7652121072703212814",
-      "platform": "tiktok",
-      "url": "https://www.tiktok.com/@ai_business_blueprint/video/7652121072703212814",
-      "caption": "Welcome to AI Business Blueprint.\n\nWe help small business owners discover practical ways to use artificial intelligence to save time, automate repetitive tasks, increase productivity, and grow their businesses.\n\nNo hype.\nNo fluff.\nJust actionable AI strategies, tools, automations, and systems that create real business results.\n\nSubscribe for weekly AI insights, software reviews, tutorials, and business growth strategies. #AIBusinessBlueprint #SmallBusinessAI #BusinessAutomation ",
-      "hook": "Welcome to AI Business Blueprint",
-      "hook_label": "OTHER",
-      "has_product": true,
-      "author": "ai_business_blueprint",
-      "views": 80,
-      "likes": 0,
-      "comments": 0,
-      "shares": 1,
-      "thumbnail": "",
-      "hashtags": [
-        "aibusinessblueprint",
-        "smallbusinessai",
-        "businessautomation",
-        "softwarereview"
-      ],
-      "created_at": "2026-06-16",
-      "scraped_at": "2026-06-17"
     },
     {
       "id": "tt_7605681045760986386",
@@ -17876,7 +18610,7 @@
         "appoftheday"
       ],
       "created_at": "2025-12-11",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     },
     {
       "id": "tt_7647130298928434462",
@@ -18057,7 +18791,7 @@
         "softwarereview"
       ],
       "created_at": "2026-05-28",
-      "scraped_at": "2026-06-17"
+      "scraped_at": "2026-06-18"
     }
   ]
 }
